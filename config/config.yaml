@@ -1,0 +1,59 @@
+# Project Management PyTorch Model Configuration
+
+# Data settings
+data:
+  dataset_dir: "dataset"
+  train_split: 0.8
+  val_split: 0.1
+  test_split: 0.1
+  max_length: 512
+  min_text_length: 50
+
+# GPT-2 Language Model settings
+language_model:
+  model_name: "gpt2"
+  learning_rate: 5.0e-5
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  num_epochs: 3
+  warmup_steps: 500
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  save_steps: 1000
+  eval_steps: 500
+  logging_steps: 100
+
+# Text Classification settings
+classifier:
+  model_name: "distilbert-base-uncased"
+  num_labels: 10  # PM knowledge areas
+  learning_rate: 2.0e-5
+  batch_size: 16
+  num_epochs: 5
+  warmup_ratio: 0.1
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+
+# Knowledge areas for classification
+knowledge_areas:
+  - "Integration Management"
+  - "Scope Management"
+  - "Schedule Management"
+  - "Cost Management"
+  - "Quality Management"
+  - "Resource Management"
+  - "Communications Management"
+  - "Risk Management"
+  - "Procurement Management"
+  - "Stakeholder Management"
+
+# Output directories
+output:
+  model_dir: "models"
+  logs_dir: "logs"
+  checkpoints_dir: "checkpoints"
+
+# Device settings
+device:
+  use_cuda: true
+  mixed_precision: true
