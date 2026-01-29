@@ -1,0 +1,3619 @@
+Foreword
+
+The project management profession has always evolved with innovation and technological
+progress. We’ve been through the Technological Age, the Computer Age. And now, we live
+in the “Exponential Age”—a time when disruptive technologies, innovations, and new ways
+of thinking and working are iterating exponentially.
+There have been several hallmarks of this age. The advent of the internet changed the way
+we learn about and see the world. Social media changed the way we connect with one
+another. Mobile devices, widespread Wi-Fi, augmented and virtual reality, and new frontiers
+in microprocessing continue to close the gap between humans and machines.
+And now, artificial intelligence is reaching an inflection point. What was once a niche tool
+leveraged by only the most technologically savvy among us has entered the mainstream.
+Massive investments by huge tech companies are taking AI from the margins to the main
+stage. AI is rocking every industry and every profession—from IT to the creative arts to
+manufacturing and, yes, to project management.
+AI affects us all. It impacts our jobs, our lives, and our prospects. The AI revolution is both a
+threat and an opportunity, and our profession needs to be on the winning side. It is up to us
+to stand up and take charge of our own futures.
+At PMI, this is the choice we made. We chose to lead the AI transformation of project
+management and empower project professionals to lead the AI transformations of their
+own organizations.
+Hence, PMI is sharing our new AI Essentials for Project Professionals guide. Within these
+pages, you will learn the fundamentals of AI, the building blocks for a robust understanding
+of this powerful and disruptive new technology.
+What is AI and how does it work? What are the key applications of AI? What terms do I
+need to know? How can I best use AI to communicate, coordinate, decide, and excel?
+These lessons have been developed and vetted by a global community of experts and
+experienced practitioners who are applying their vast knowledge to benefit the project
+management profession. They answer the critical questions that will equip you to learn,
+grow, and lead as you leverage the latest AI platforms and tools.
+Think of this guide as an “AI 101” for project managers and then leverage other PMI
+resources—our online courses, our thought leadership reports, and our PMI Infinity™ AI
+copilot—to take your AI experience to the next level.
+Now is the time to take charge. Learn. Grow. Lead.
+PMI is here to guide and support you along
+your journey.
+Pierre Le Manh, PMP
+President and CEO, PMI
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+i
+
+Introduction
+
+The advent of AI, and most recently, the use of generative AI (GenAI) applications, is
+ushering in an era of unprecedented change, often referred to as the Exponential Age. It is
+increasing the technological change rate and resolving the workforce issues produced by
+those advancements. This transformation brings with it a myriad of unknowns and
+challenges, and project professionals are poised to play a pivotal role as both
+organizational leaders and agents of change.
+How the project practitioner works—and the tools they work with—will change in this
+Exponential Age. With the advent of AI, professionals will recast how they perform their
+jobs and help their organizations navigate change in their respective functional areas.
+This guide intends to provide a broad, general view for understanding AI from the context
+of the project professional, and some key uses of AI that are applicable to their daily tasks.
+A companion guide will explore other facets of AI to help project practitioners solve
+challenges they face in their roles and with the organizational adoption of AI.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+ii
+
+Table of Contents
+
+What Is AI?....................................................................................................................................................................... 1
+Key Elements of AI................................................................................................................................................. 2
+Types of AI................................................................................................................................................................. 2
+		
+
+AI Focused on Narrow Versus General Applications................................................................... 2
+
+		
+
+Technology Underpinnings of AI........................................................................................................... 2
+
+Applications of AI....................................................................................................................................................6
+		
+
+Goals of AI in the Exponential Age....................................................................................................... 7
+
+		
+
+AI Patterns.........................................................................................................................................................8
+
+		
+
+Utilizing the Seven Patterns for AI Project Success...................................................................10
+
+Categories of AI..................................................................................................................................................... 11
+		
+
+Generative AI................................................................................................................................................. 11
+
+		
+
+Predictive AI................................................................................................................................................... 17
+
+Applying AI in Project Management...............................................................................................................19
+The Role of Project Professionals in AI Projects...................................................................................19
+How Can AI Best Enhance Project Management?...............................................................................21
+		
+
+AI in Project Management Planning.................................................................................................. 22
+
+		
+
+AI in Decision-Making.............................................................................................................................. 24
+
+		
+
+AI in Project Monitoring........................................................................................................................... 25
+
+		
+
+AI in Communication and Collaboration......................................................................................... 26
+
+		
+
+AI in Document Management.............................................................................................................. 27
+
+		
+
+AI in Cost Management.......................................................................................................................... 27
+
+		
+
+AI in Training and Development.......................................................................................................... 29
+
+Getting the Most From AI................................................................................................................................ 29
+		
+
+As a Project Professional........................................................................................................................ 29
+
+		
+
+As an Organization....................................................................................................................................30
+
+		
+
+Risks of AI in Project Management....................................................................................................34
+
+Emerging AI Regulations and Laws.............................................................................................................41
+AI Resources..........................................................................................................................................................44
+		
+
+PMI Infinity™..................................................................................................................................................45
+
+		
+
+PMI Resources.............................................................................................................................................45
+
+Taking the Next Steps With AI......................................................................................................................46
+Further AI Guidance...........................................................................................................................................46
+References.............................................................................................................................................................. 47
+Contributors and Reviewers ..........................................................................................................................48
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+iii
+
+What Is AI?
+
+Improvements in information technology have had a profound impact on the modern
+workforce. The job description of a salesperson, accountant, or project manager has not
+changed much from when Gordon E. Moore, cofounder of Intel, first observed that
+computing technology would roughly double in speed and capability for the same cost
+every 18 months. 1 However, the performance of those jobs has changed significantly and
+will continue to do so. The modern worker has a need to:
+•
+
+Manage greater amounts of quickly evolving data and information;
+
+•
+
+Have a greater level of productivity and ROI; and
+
+•
+
+Extract greater value from the vast amounts of data being created.
+
+Artificial intelligence (AI), the notion of machines that can be imbued with the same
+cognitive abilities as people, is one solution to the issues listed above.
+The idea of thinking machines has been with us since the early 1900s. The term artificial
+intelligence was first used by John McCarthy, Marvin Minsky, Nathaniel Rochester, and
+Claude Shannon in 1955 to propose the Dartmouth Summer Research Project on Artificial
+Intelligence. They described the original concept of AI as “every aspect of learning or any
+other feature of intelligence can in principle be so precisely described that a machine can
+be made to simulate it.” 2
+While the Dartmouth conference aimed to define artificial intelligence, there is currently no
+commonly and widely accepted definition of AI. As such, from that 10-day gathering and its
+original definition, the definition of AI has expanded to encompass a variety of concepts
+around intelligent machines. We are now in a moment when the reality of AI is closer than
+ever to the world’s potential for it.
+As our technological capabilities increase, AI’s scope will also increase. This broad scope
+and constantly evolving capability have made providing a standard definition of AI difficult.
+For this guide’s purposes, we will define AI as a machine behavior and function that
+exhibits human intelligence and behavior. We can more narrowly define AI as the ability
+of machines to:
+•
+
+Perceive and understand their surroundings;
+
+•
+
+Learn from teaching, training, and its own experiences;
+
+•
+
+Make decisions based on stored memories and thought processes;
+
+•
+
+Have natural conversations and linguistic communication with humans; and
+
+•
+
+Develop “intuition” in situations that are vague and imprecise.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+1
+
+Key Elements of AI
+There are three key elements of AI: perception,
+prediction, and planning.
+•
+
+Perception. The ability to understand the
+environment and process the data that the
+environment provides.
+
+•
+
+Prediction. Enabling a machine to recognize
+patterns and use that recognition to predict
+future events. The AI’s overall performance can
+be improved by continuously observing
+iterations within the patterns—and learning
+from those iterations.
+
+•
+
+Planning. Use what was perceived and the
+lessons from pattern observation to make
+decisions and develop plans.
+
+For the project professional, these elements will
+change the various aspects of project
+management, including planning, determining
+outcomes for success, monitoring, and allocating
+resources.
+
+Types of AI
+AI can be categorized by its application and the
+underlying technology it uses.
+
+AI Focused on Narrow Versus
+General Applications
+There are two types of AI based on capabilities:
+narrow or weak AI and general or strong AI
+(sometimes called artificial general intelligence
+[AGI]).
+
+Narrow AI
+Narrow AI systems are designed to use various AI
+technologies to perform specific tasks such as
+conversational chatbots, predictive analytics,
+repetitive tasks, or facial recognition. Because their
+scope is limited, these systems are not meant—or
+able—to be applied to other tasks. All current
+implementations of AI in use today fall under the
+narrow AI type.
+
+For project professionals, processes such as
+planning, cost management, project monitoring,
+and communication can all be enhanced and
+made more efficient through the implementation of
+an AI system.
+
+Artificial General Intelligence
+This type of AI is enabled with cognitive
+capabilities and mental dexterity that mimic those
+attributes in humans. These systems could
+generalize knowledge across domains, plan for
+future events based on their knowledge and
+experience, and adapt to changes. We have yet to
+build anything close to the capabilities of artificial
+general intelligence systems.
+
+For project professionals,
+processes such as planning,
+cost management, project
+monitoring, and
+communication can all be
+enhanced and made more
+efficient through the
+implementation of an
+AI system.
+
+Technology Underpinnings of AI
+For AI systems to provide the capabilities of the
+key elements of AI, we utilize a variety of
+technologies relevant to the task they are required
+to perform.
+
+Machine Learning
+The ability to learn is key to exhibiting intelligence.
+Machine learning (ML) is the set of methods and
+processes that enable computer systems to learn
+patterns. These patterns come from stored data
+and are analyzed using different formulas called
+ML algorithms. The algorithms encode learning
+from training data into ML models, representing
+what the machine has learned from the data for a
+particular task.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+2
+
+There are various methods to enable a machine to learn:
+•
+
+Supervised learning. Algorithms can learn by being trained from examples of data.
+Email filtering is a good example of supervised learning. The ML algorithm is trained with
+a data set containing both spam and legitimate email. The algorithm learns patterns to
+distinguish between spam and legitimate email using the email metadata, sender,
+subject, body, and other components. Once trained, it can be implemented in an email
+app to filter spam emails.
+
+•
+
+Unsupervised learning. Algorithms are provided with unlabeled data, and hidden
+patterns or data groupings are discovered without human intervention. Image and video
+analysis is an example of unsupervised learning.
+
+•
+
+Reinforcement learning. Machines can also learn through trial-and-error approaches.
+Autonomous driving algorithms use reinforcement learning to improve their capabilities.
+
+Neural Networks
+Our brains use neurons to connect the inputs from our senses and what we’ve learned.
+These connections enable humans to learn new skills based on their existing skill sets.
+Following this neural model, AI researchers created an ML algorithm called neural networks
+that can simulate how the brain works to encode learning.
+With neural networks, machines learn using a set of connected artificial neurons; they input
+information, analyze it, and produce an output. Over time these networks quickly learn
+patterns.
+
+Deep Learning
+One of the challenges with neural networks is that they require a lot of data and computing
+to work efficiently. The more neural layers in the network, the more efficient and powerful it
+can be. The trade-off for this increase is that the network becomes challenging to manage
+and difficult to scale.
+With the advent of big data and specialized graphics processing units (GPUs), we can
+create neural networks with many layers of artificial neurons to enable more complicated
+learning. This use of many layers of interconnected artificial neurons in a neural network is
+known as deep learning. Its name comes from the many artificial neuron layers. Deep
+learning neural network approaches to ML have proven successful at recognizing images,
+natural language processing (NLP), and other applications (see Figure 1).
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+3
+
+Neural Network
+
+Input
+Layer
+
+Hidden
+Layer
+
+Deep Learning Neural Network
+
+Output
+Layer
+
+Input
+Layer
+
+Hidden
+Layers
+
+Output
+Layer
+Source: Cognilytica
+
+Figure 1. Neural Networks and Deep Learning
+
+Natural Language Processing and
+Generation
+The advancement of deep learning and other
+approaches to ML have furthered our
+understanding and processing of speech and
+natural language. The result is a wide range of NLP
+applications that can unlock the power of spoken
+conversation and the written word. These
+applications not only can understand spoken and
+written words, but can also formulate those words
+into sentences and summarize volumes of content.
+Natural language generation (NLG) allows
+computers to communicate with humans in a
+conversational flow.
+Applying NLP and NLG can enable the
+communication capabilities of chatbots,
+conversational interfaces, and a wide range of
+applications, which can unlock the power of
+unstructured information and spoken content in
+unprecedented ways.
+
+Computer Vision
+Computers have long had the capability to capture
+and store images and visual information. However,
+
+the challenge of being able to identify what is in
+those images is particularly complicated. The brain
+has a whole area of interconnected neurons and
+biochemical pathways dedicated to decoding the
+meaning of the electrical impulses from the retina,
+where humans perceive light and images. For a
+long time, getting accurate image recognition was
+a computationally difficult task. Developers and
+researchers found it challenging to program a way
+to classify images or identify faces in different
+positions, lighting situations, and expressions.
+Then, deep learning came and changed
+everything.
+
+The use cases for computer
+vision capabilities are
+enormous, ranging from
+reducing costs and ensuring
+accuracy in construction
+and renovation projects to
+managing project assets.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+4
+
+Using deep learning neural networks with large quantities of training data gives new
+meaning to computer vision, allowing systems to accurately identify and classify images,
+recognize faces, and detect specific objects inside images or videos. The use cases for
+computer vision capabilities are enormous, ranging from reducing costs and ensuring
+accuracy in construction and renovation projects to managing project assets.
+
+Augmented Intelligence
+Augmented Intelligence is the idea of machines and humans working together to enhance,
+rather than replace, humans for tasks. The term augmented intelligence provides a way to
+differentiate the goals of helping humans with AI technology from those AI approaches
+meant to operate independently of humans.
+This approach is about enhancing the quality and scope of project management tasks,
+enabling managers to tackle more intricate challenges that require a deep understanding
+of business dynamics and project interdependencies. By utilizing augmented intelligence,
+businesses and organizations can do more with the people they already have. Consider
+augmented intelligence as assistive devices that can help humans perform tasks that
+might have previously been too difficult, dangerous, expensive, or tedious.
+By combining AI’s efficiency, scalability, and data-processing capabilities with the
+creativity, emotional intelligence, and ethical judgment of human professionals,
+organizations can create exceptional and human-centric customer experiences that
+resonate with their customers on a deeper level (see Table 1).
+
+Table 1. Augmented Intelligence ——The Balance Between Humans and Machines
+
+Strengths
+
+Humans
+
+Machines
+
+• Intuition
+
+• Probabilistic thinking
+
+• Emotional intelligence
+
+• Dealing with large volumes
+of information
+
+• Common sense
+
+• Trainability and following 		
+instructions
+
+• Creativity
+• Learning adaptability
+
+Weaknesses
+
+• Lack of selfish motivations
+
+• Probabilistic thinking
+
+• Intuition
+
+• Dealing with large volumes
+of information
+
+• Emotional intelligence
+
+• Bias
+
+• Creativity
+
+• Responding reliably to training
+and instructions
+
+• Bias
+
+• Common sense
+
+• Hard to adapt learning to
+different situations
+• Dependence on quality of
+training data
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+5
+
+Automation Versus Intelligence
+Missing from the above technologies is automation. Automation does not equal
+intelligence. Automation is the act of repetition. It does not require intelligence and is
+mostly focused on handling the same inputs and producing the same outputs. Intelligence,
+on the other hand, is about handling variability.
+We defined artificial intelligence as having three aspects: the ability to perceive, predict,
+and plan. An automated system does none of these; it simply follows the coded
+instructions given to it.
+As an example, a company has an automated system that categorizes incoming customer
+issues. Based on keywords within the issue submission, the customer is either directed to a
+live customer support person or flagged for an automated email response. The automated
+response does not immediately resolve the customer issue but simply provides instructions
+on how to escalate the issue. This response system is automated but not intelligent.
+Without adding additional human resources, management wants to find a means to resolve
+all customer issues within a shorter timeframe and without escalation. This requires
+introducing a level of intelligence into the existing system so issues not routed to a live
+support person can be resolved. By implementing an AI system, specifically NLP, the issue
+can be interpreted and a solution implemented.
+To determine if a system is automated or intelligent, ask these questions:
+•
+
+Is there any machine learning in the system?
+
+•
+
+Can the system improve over time and with experience?
+
+•
+
+Can the system determine the next steps and avoid exceptions without human
+intervention?
+
+If not, the system is not intelligent.
+
+Applications of AI
+Having a broad understanding of how AI
+functions can be helpful, but for project
+professionals to capitalize on the benefits of
+AI it’s important to have an overview of how it
+can be applied. These applications, called
+patterns, broadly define how AI can be used
+for project management tasks. Understanding
+them can help lead to greater efficiency and
+improved results when utilizing AI.
+
+... for project professionals
+to capitalize on the benefits
+of AI it’s important to have
+an overview of how it can
+be applied.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+6
+
+Goals of AI in the Exponential Age
+A technology or product’s goals are typically determined by the intended audience’s
+needs. The intended audience of AI is humanity itself, which can create a large set of
+potential goals. As AI has evolved, the community behind its growth and its end users have
+helped to define the goals. We look to AI to solve problems, automate tasks, and augment
+human shortcomings. A short but not exclusive list of AI goals is to:
+•
+
+Solve complex problems;
+
+•
+
+Automate and streamline operations with intelligent capabilities;
+
+•
+
+Utilize data and intelligence continuous improvement;
+
+•
+
+Interact with people using natural language conversation;
+
+•
+
+Replicate human expertise; and
+
+•
+
+Foster human–AI collaboration.
+
+AI is not a new technology. The concept has
+been around since the early 1900s and
+different types of AI have been implemented
+since the 1960s. It has always been restrained
+by limited computational power and storage.
+Enter Moore’s Law. As we began this century,
+we saw vast improvements in computing
+power and data storage, sometimes
+surpassing our current needs.
+
+Artificial intelligence can help
+by providing a combination of
+intelligence, automation,
+creation, and prediction to
+make our lives easier and
+more fulfilled.
+
+As the saying goes, solve a problem, create a
+problem. As computing power and data storage have increased, so have our technology
+demands. Customers expect near-instantaneous results, from next-day delivery of a
+product ordered online to immediate retrieval of bank statements. Businesses are awash in
+data that can only be useful if correctly analyzed, displayed, and integrated into their
+strategies. Corporations want workers to be more productive and achieve company goals
+on faster timelines. Researchers need assistance interpreting their discoveries as we delve
+further into the cosmos and the quantum. People want entertainment and news tailored to
+their likes; to connect through video with friends, family, and coworkers; directions to their
+destinations mapped; and so much more from this Exponential Age.
+Artificial intelligence can help address these needs by providing a combination of
+intelligence, automation, creation, and prediction to make our lives easier and more fulfilled.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+7
+
+AI Patterns
+Not all applications of AI are the same. In fact, there are seven primary ways in which AI
+systems are applied to the various application areas to solve the above challenges. From
+automated driving to facial recognition to data analytics, each AI project, at its core, can fit
+into an AI pattern. In 2019, researchers from Cognilytica categorized AI projects into seven
+specific patterns 3 (see Figure 2).
+
+Recognition
+
+Predictive
+Analytics and
+Directions
+
+Autonomous
+Systems
+
+The Seven
+Patterns
+of AI
+
+Patterns
+and Anomalies
+
+Conversation
+and Human
+Interaction
+
+Goal-Driven
+Systems
+HyperPersonalization
+
+Source: Cognilytica
+
+Figure 2. The Seven Patterns of AI
+
+Autonomous Systems
+Autonomous systems are physical and virtual software and hardware systems that can
+accomplish a task, reach a goal, interact with their surroundings, and achieve an objective
+with minimal human involvement. The goal of autonomous systems is to streamline
+processes with as little human interaction as possible. The autonomous system pattern
+requires ML capability that can independently perceive the outside world, predict future
+behavior of external elements, and plan how to deal with those changes.
+Obvious applications of this pattern include autonomous machines and vehicles of all sorts,
+including cars, boats, trains, and airplanes. However, this pattern also includes autonomous
+systems like autonomous documentation and knowledge generation and autonomous
+business processes. These include systems that can operate near to how humans behave,
+including preferential decision-making.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+8
+
+Conversation and Human Interaction
+The conversational/human interaction pattern is
+defined as machines and humans interacting in
+conversational ways. The interactive content can
+be created in various formats such as voice, text,
+and image. The pattern includes machine to
+human, human to machine, and human and
+machine. It can also be used to facilitate humanto-human interaction through translation features.
+This pattern enables machines to interact with
+humans the same way they interact with one
+another.
+Examples of this pattern include chatbots; voice
+assistants; and sentiment, mood, and intent
+analysis. The objective is to understand the intent
+behind human interactions. Many businesses
+employ a chatbot on their website to engage
+customers as a frontline customer service option
+and to reduce customer support costs.
+
+Goal-Driven Systems
+Machines have proven particularly adept at
+learning game rules and beating human players.
+The key to this success is to provide the AI system
+with a goal or objective to achieve. Through the
+power of reinforcement learning and much more
+advanced computation capabilities, machines have
+learned and won games such as chess, checkers,
+and go; multiplayer games such as Defense of the
+Ancients (Dota); and more complicated games.
+The goal-driven system pattern works under the
+theory that computers can learn anything through
+goals. Examples of the pattern can include game
+playing, resource optimization, iterative problemsolving, and bidding and real-time auctions.
+
+With the power of goal-driven patterns,
+organizations can enable their systems to find,
+through trial and error, the optimal solution to a
+problem. In 2022, scientists at Google’s DeepMind
+division created AlphaFold, an AI system that can
+predict how every known protein can be folded
+into its three-dimensional (3D) shape. This problem
+was a long-standing blocker for biological
+research and Google’s work has now opened the
+way for many biological discoveries. 4
+
+Hyper-Personalization
+The hyper-personalization pattern creates systems
+that cater to the individual. The pattern is defined
+as using ML to develop a profile of each individual
+and having that profile learn and adapt over time
+for various purposes, including displaying relevant
+content, recommending products, providing
+personalized recommendations, and other
+services. The goal of this pattern is to personalize
+services for everyone.
+Netflix utilizes this pattern in the user’s dashboard,
+recommending shows that match the genre and
+type of previously watched shows. Artificial
+intelligence helps filter Netflix’s catalog to present
+the appropriate choices to each user. The pattern
+is also used in other industries such as finance,
+healthcare, and personalized fitness.
+As another example, in the United States,
+creditworthiness is determined by your FICO score.
+This system categorizes a wide range of individuals
+into a tier of creditworthiness despite their
+individual differences in saving and payment
+habits. AI, through the hyper-personalization
+pattern, can be used to create a process that more
+accurately determines an applicant’s credit
+categorization.
+
+Pattern and Anomaly Detection
+With the power of
+goal-driven patterns,
+organizations can enable
+their systems to find, through
+trial and error, the optimal
+solution to a problem.
+
+Machine learning has become particularly adept at
+identifying patterns and finding anomalies or
+outliers in data and processes. The pattern and
+anomaly detection pattern is an approach to AI
+projects that has seen increasing adoption. The
+goal of this pattern is to use ML and other cognitive
+approaches to review patterns in data sets and the
+higher-order connections between data points.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+9
+
+This analysis can determine whether the pattern is
+an outlier or an anomaly from existing patterns.
+This AI service aims to find what fits with existing
+data and what doesn’t.
+Typical applications of this pattern are in fraud and
+risk detection, minimizing and fixing human
+mistakes, or in a predictive manner to suggest
+words to speed up the writing process. The last
+example is one many people will be familiar with,
+from Grammarly’s writing assistant product to
+Apple’s autocomplete capability on iPhones.
+
+Machine learning has
+become particularly adept at
+identifying patterns and
+finding anomalies or outliers
+in data and processes.
+
+Predictive Analytics
+The predictive analytics pattern uses ML and other
+cognitive approaches to understand how past or
+existing behaviors can determine the probability of
+a future outcome or provide predictive analysis to
+help in the decision-making process. The objective
+of this pattern is to help humans or processes
+make better decisions.
+
+The predictive analytics pattern helps to make
+better decisions by utilizing ML to provide
+augmented intelligence capabilities.
+For example, the ad slots on a web page, such as
+The New York Times, are auctioned off each time
+the page loads. Ad tech companies have created
+predictive analysis services to determine the
+optimal bid price to win the auction for an ad slot.
+
+Recognition
+A major advancement in ML is using deep learning
+to improve the accuracy of recognition-related
+tasks. The recognition pattern utilizes ML and other
+cognitive approaches to distinguish different
+images, video, audio, and objects, including
+classifying and identifying objects. The pattern
+determines and classifies objects and identifies an
+object within an image, video, audio, text, or other
+unstructured data. The objective of this pattern is
+to have machines identify and recognize things.
+Examples include image and object recognition,
+facial recognition, audio and sound recognition,
+handwriting and text recognition, and gesture
+detection. This pattern has been well developed
+and is widely used. Many people are familiar with
+this pattern through the facial recognition feature
+that unlocks mobile phones and other devices.
+Google employs the feature to isolate items in an
+image and search the internet for that item’s best
+shopping price.
+
+This pattern’s uses include:
+•
+
+Assisted search and retrieval;
+
+•
+
+Predicting some future value for data;
+
+•
+
+Predicting behavior;
+
+•
+
+Predicting failure;
+
+•
+
+Assisted problem resolution;
+
+•
+
+Identifying and selecting best fit;
+
+•
+
+Identifying matches in data; and
+
+•
+
+Optimization activities.
+
+Utilizing the Seven Patterns for AI
+Project Success
+These patterns can be implemented individually to
+help organizations with everything from business
+strategy to customer retention. However, the
+chances of success are heightened when an
+organization combines one or more of the patterns.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+10
+
+Assessing these patterns will help organizations better approach, plan, and execute their AI
+projects. Emerging methodologies are focusing on the use of these seven patterns to
+expedite AI project planning and execution. For example, knowing that you’re utilizing a
+recognition pattern can expedite the planning process. Planning teams can strategize on:
+•
+
+Solutions that have been applied to that problem;
+
+•
+
+Data required to power the pattern;
+
+•
+
+Use cases to explain the problem and solution; and
+
+•
+
+Algorithm and model development tips.
+
+Categories of AI
+As AI evolves and branches into diverse types that transform the interactions among
+machines, humans, and data, two distinct categories have arisen. In broad terms, these
+categories are dependent on the output from the AI models employed. Is AI being used in
+a creative or generative process or an analytical or predictive one?
+At times, these categorical distinctions can be blurred. Is autocorrect generative or
+predictive? The same question applies to a process that predicts sales for a period and
+then outputs those predictions in a report.
+These categories help us—the humans in the AI equation—to understand the overall goal
+of a process and determine if its end result is a success or failure.
+
+Generative AI
+Generative AI (GenAI) represents a specific, vital application subset within the broader
+domain of AI, focusing on the creation of new content. Generative AI is the application of
+ML techniques to the creation of new data based on learned patterns. The most popular
+GenAI solutions in the market are large language models (LLMs) trained on a huge amount
+of internet data.
+The generative models are usually specific to the kind of thing you want to generate. Text
+generators are optimized for text and can’t really generate images. Image generators are
+optimized for images and can’t really generate text.
+Prompts are natural language instructions for an LLM provided by a human so that the AI
+will deliver the desired results.
+
+GenAI Foundation Models
+Foundation models are large, pretrained models focused on a general domain such as
+language or computer vision. These foundation models have changed how data scientists
+approach ML development. Rather than build an AI system from scratch, they can utilize a
+foundation model as a starting base, reducing up-front time and costs.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+11
+
+These models must be very large to address a wide
+range of tasks. They are pretrained using a massive
+amount of unlabeled and generalized data and can
+perform multiple tasks like NLP, answering
+questions, or generating images. Compared to the
+singular focus of a standard ML model, foundation
+models’ adaptability and ability to get a project
+started quickly make them attractive for various
+projects.
+
+generation. They are also versatile and proving to
+be helpful for a variety of processes, including:
+
+Training these huge foundational models requires
+enormous computing power and carefully curated
+training data sets. Once trained, they can be
+adapted or fine-tuned for more specialized tasks
+through additional training on relevant data. They
+are adaptable through prompting to generate
+different required responses.
+Foundation models can be used for a single task or
+combined with the output from multiple models.
+They can also be refined for specific applications or
+enhanced with databases to customize them for an
+organization’s content.
+
+Training these huge
+foundational models requires
+enormous computing power
+and carefully curated
+training data sets.
+
+Large Language Models
+Large language models (LLMs) are trained
+foundation models—a deep learning neural network
+model configured to generate humanunderstandable text from human-provided
+prompts. They use large data sets to understand,
+summarize, generate, and predict new content.
+Large language models leverage transformer
+models. These models track the relationships in
+sequential data, like a sentence, to learn the data’s
+order and meaning. These models have proven
+especially powerful for NLP applications and image
+
+•
+
+Content and text generation;
+
+•
+
+Text summarization and translation;
+
+•
+
+Searches and information retrieval;
+
+•
+
+Questions and answers on documents;
+
+•
+
+Classification and categorization of content;
+
+•
+
+Code generation; and
+
+•
+
+Art generation.
+
+Generative Pretrained Transformer Models
+Generative pretrained transformer (GPT) models are
+foundational models that utilize neural network ML
+models to transform input prompts into text, image,
+audio, or other types of content. Transformer
+models are quickly becoming the preferred model
+for a wide range of applications that require
+transforming one sequence into another. The GPT
+models can be used to transform a text sequence,
+such as a prompt, into another text sequence or a
+text prompt into an image.
+Models like ChatGPT from OpenAI, Copilot from
+Microsoft, or Llama from Meta are powerful LLMs
+driving many current AI applications.
+
+How GenAI Works
+GenAI models are a type of deep learning neural
+network. The underlying ML model outputs the data
+that users want to generate. The most popular
+GenAI solutions in the market are powered by LLMs.
+These models are trained on a massive amount of
+data sourced from the internet. This process is
+known as pretraining. This data enables the AI to
+understand the nuances of the text. These
+pretrained, big, neural network AI models can use
+their patterns to generate new text, images, or other
+content. Using natural language prompts, users can
+generate these outputs without having to do any
+coding or building of specialized models.
+Figure 3 shows the relationship among all of the
+different technologies needed to make these GPT
+systems work.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+12
+
+Artificial Intelligence
+
+Machine Learning
+
+Deep Learning
+Large Language
+Models
+
+Generative AI
+
+GPT
+Figure 3. The Relationship Among the Technologies Needed to Make GPTs Work
+
+Prompts and Prompt Engineering
+A GenAI system can be a useful tool for assisting or augmenting the needs of project
+professionals. Its value, however, can only be realized through the instructions provided to
+it. These instructions, called prompts, supply the system with context and guidance as well
+as constraints to the responses they provide. Prompts can help format and personalize the
+responses as well as make interactions with AI systems more efficient.
+
+What Is a Prompt?
+A prompt is a request a user submits to a GenAI system to perform a task. If you have used
+ChatGPT, then you have written a prompt. A GenAI system is powered by LLMs that enable
+the AI to analyze massive amounts of data and output detailed responses.
+Having such a deep breadth of content to draw from can be both beneficial and
+detrimental for a GenAI system. It is beneficial as the system can provide an answer, even
+with a single-word prompt. It is detrimental because of the vastness of its training data; the
+less specific a prompt, the more likely the results will be vague or unhelpful.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+13
+
+As an example, this prompt: “I am a project
+manager and I need help with planning my project”
+is too vague to generate any helpful response.
+
+•
+
+Give examples. Embed specific examples in the
+input text to aid the LLM in understanding the
+desired output format or preferred answer. It
+can be something as simple as: “Use this as an
+example.’’ This proves especially beneficial for
+tasks demanding a particular structure or
+format, like generating code or crafting specific
+types of text. As OpenAI says in its GPT-4 guide: 6
+“The less the model has to guess at what you
+want, the more likely you’ll get it.”
+
+•
+
+Make it a conversation, not a command. Per
+the OpenAI GPT-4 guide: “These models can’t
+read your mind. If outputs are too long, ask for
+brief replies. If outputs are too simple, ask for
+expert-level writing. If you dislike the format,
+demonstrate the format you’d like to see.”
+Interact with the LLM like it’s an intern who
+needs constant instructions. Note what types of
+prompts give the best results and refine the
+input accordingly.
+
+•
+
+Incorporate a “reliability check.” Include a
+request for references and sources in the ask.
+Even though some LLMs don’t browse the web
+in real time, this can still prompt them to provide
+the name of a source that can be verified via a
+simple online search. It also prompts the model
+to assess the output as a “sanity check” and
+helps ensure that the generated content aligns
+with the desired accuracy and reliability
+standards.7
+
+Changing the prompt to be more specific, such as
+“I am a project manager and am in the planning
+phase of my project. I don’t know which project
+management approach to use. What are the key
+considerations for selecting one?” will enable the
+AI system to generate a more detailed response.
+The ability to input specific requests is one of the
+keys to optimizing an AI system. With practice and
+some simple guidelines, good prompt writing can
+become second nature. The following points
+should be considered when formatting a prompt:5
+
+Organizations have begun
+to realize that good inputs
+are just as critical as the
+underlying ML and data
+within an AI system.
+Companies are training staff
+on the proper way to write a
+prompt and a new role has
+emerged related to AI: the
+prompt engineer.
+
+•
+
+•
+
+Use a “diverge and converge” approach. Start
+with a broad, open-ended question to utilize the
+GenAI tool for its exploration capabilities. Once
+the tool provides a general framework, converge
+on each element. Use the following steps to
+generate more effective answers. Project teams
+can also design a sequence of prompts to
+address distinct outputs and objectives.
+Provide more context than you would to a
+human. Detail the problem or question well, and
+be specific about things such as industry,
+region, type of project, and the task. Outline the
+project’s background, describe the person using
+the GenAI tool (like a project manager), and say
+how and where the answer will be used. The
+granularity of the input will be directly
+proportional to the utility of the output received.
+
+Organizations have begun to realize that good
+inputs are just as critical as the underlying ML and
+data within an AI system. Companies are training
+staff on the proper way to write a prompt and a
+new role has emerged related to AI: the prompt
+engineer.
+
+What Is Prompt Engineering?
+Consider this scenario: An investment bank that
+employs tens of thousands of wealth managers
+wants to utilize a GenAI system to help them find
+information in the large number of annual reports
+and earnings-call transcripts they need to review.
+The company provides training for wealth
+managers in writing good prompts. They also hire
+prompt engineers, specialists that can help finetune the underlying LLMs with specific prompts
+and recommended responses.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+14
+
+In essence, prompt engineers help train the ML
+system on not just the industry-specific language,
+but also the nuances and intent of a query. This
+process helps calibrate the AI system to provide
+optimized response quality and reduce bias and
+hallucinations.
+
+consistent output each time. For example,
+GenAI systems struggle with basic math
+calculations and with spelling text correctly in
+images.
+•
+
+Incorrect outputs. When a GenAI system
+provides an incorrect output, it is known as a
+hallucination. These models are trained on
+data, but if the data are incorrect or
+incomplete, the model can learn incorrect
+patterns and produce a hallucination. GenAI
+models don’t understand what they are
+generating; they simply follow a series of
+commands to output something. More
+advanced LLMs have some processes that
+could help catch falsehoods in the data, but all
+GenAI models are susceptible to hallucinations.
+
+•
+
+Informational and data biases. GenAI is
+susceptible to biases and stereotypes that
+usually arise from the data it is trained on. This
+can, in turn, reinforce biases and stereotypes
+within the model and generate results based
+on these biases. There are also concerns
+regarding moral and ethical issues in both the
+inputs and outputs. Developing guidelines and
+safeguards is crucial as this key application of
+AI advances and becomes more accessible.
+
+•
+
+Misappropriation of intellectual property.
+GenAI is trained on data from many sources,
+including protected intellectual property (IP).
+GenAI results can include protected IP without
+permission or proper citations.
+
+•
+
+Potentially inappropriate responses. GenAI
+systems can generate text, images, and other
+formats that could be inappropriate such as
+not-suitable-for-work (NSFW) content, images
+or depictions of violence or gore, and hate
+imagery. Popular GenAI models are increasing
+their use of moderation filters to ensure the
+outputs are not inappropriate. However, opensource models might not have those
+restrictions, posing problems for text and
+image generation.
+
+•
+
+Leaking confidential and private data. Public
+models such as ChatGPT don’t necessarily
+guarantee the privacy or confidentiality of data
+submitted to their systems. A session’s chat
+history is stored and might be used for
+
+For example, in the scenario above, a wealth
+manager might prompt the AI chatbot with:
+“Summarize company XYZ’s most recent annual
+report.” Within the code for this application there
+could be an engineered prompt that is more
+specific and replaces any generalized summary
+request with: “Summarize the key performance
+metrics of company XYZ’s most recent annual
+report, including sections for revenue, net
+incomes, and earnings per share.”
+By combining prompt training for the end users to
+create specific prompts and incorporating prompt
+engineering to help train and adjust the LLMs, an
+organization can optimize its use of AI to get the
+most efficiency and productivity from it.
+
+Prompt engineers help train
+the ML system on not just the
+industry-specific language,
+but also the nuances and
+intent of a query.
+
+Limitations and Challenges of GenAI
+The quality of outputs from GenAI systems is
+remarkable. Again, we can see Moore’s Law in
+effect. The pace of AI improvements keeps
+accelerating and the capabilities of the models to
+be customized for a wide range of tasks is
+increasing. Despite its growth and recent success,
+GenAI still has limitations and challenges. From a
+functional point of view, AI can pose issues for
+organizations due to:
+•
+
+High degree of variability. GenAI systems are
+meant to create new outputs from inputs.
+Despite advances in this area, there will always
+be an element of variability in the output. A
+GenAI system will not produce the same,
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+15
+
+additional training data. Be cautious when
+entering proprietary or personally identifiable
+information (PII) into any GPT system.
+•
+
+Security vulnerabilities. LLM systems
+embedded in third-party applications could be
+open to malicious text prompts that cause the
+models to do things or respond in ways they
+shouldn’t. Prompt-injection attacks can get the
+LLM system to reveal proprietary or private data
+used for the system, including data used to
+fine-tune the model.
+
+The process of organizational
+learning through GenAI is
+challenging and necessitates
+a symbiotic relationship
+between humans
+and machines.
+
+In addition to functional issues, GenAI can present
+challenges from an operational perspective. The
+process of organizational learning through GenAI is
+challenging and necessitates a symbiotic
+relationship between humans and machines,
+wherein both entities engage in continuous
+reciprocal learning. This interaction, when
+conducted properly over time and within suitable
+contexts, enhances the intelligence, relevance, and
+efficacy of both humans and machines. The
+essence of success in GenAI endeavors lies in the
+ability to facilitate this mutual learning. Project
+professionals should endeavor to learn new
+techniques such as prompt engineering for
+interacting with GenAI.
+
+Keeping Humans in the Loop
+While AI can significantly augment and enhance
+project management processes, it is unlikely to fully
+replace human project practitioners in the
+foreseeable future. Human oversight, judgment,
+and decision-making will still be crucial, particularly
+in complex or high-stakes projects. The project
+
+professional’s experience and industry knowledge
+play crucial roles in interpreting AI outputs and
+integrating them into strategic planning and
+execution, ensuring that the insights and outputs
+provided by AI are aligned with the company’s
+goals and market conditions.
+The role of AI should be as a copilot to human
+thought to increase the power of data, and
+particularly in complex situations where the most
+important factor is the understanding of the
+situation, which can only be provided by a human.
+The “human in the loop” (HITL) is an essential
+element.
+Implementing AI in project management ought to
+be met with a balanced approach of weighing both
+the innovative potential and the ethical
+responsibilities. The HITL is an essential aspect of
+the integration process and it is crucial that project
+professionals understand the level of involvement
+that is required to convert the output of a GenAI
+exercise into a usable artifact.
+In addition, while GenAI outputs can mimic humanlike language and communication, true empathy
+and emotional intelligence are still challenging for AI
+systems. Human customer service professionals
+can provide the emotional support, understanding,
+and genuine connection that customers often seek,
+especially in challenging or sensitive situations, in
+collaboration with GenAI via the human in the loop.
+
+The role of AI should be as a
+copilot to human thought to
+increase the power of data.
+
+The adoption of AI should follow a gradual
+approach utilizing incremental and iterative testing.
+This helps ensure that stakeholders’ expectations
+are managed, while also ensuring that the project
+team is not becoming overly dependent on the
+technology. Such measures will be adopted by
+organizations to enable team members to use AI
+effectively in decision-making.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+16
+
+Predictive AI
+As its name implies, predictive AI is an AI system that makes predictions or
+recommendations. These models use historical data to forecast future events or to classify
+those events.
+Predictive AI is a process to address problems such as:
+•
+
+Classification. What is the probability of an event, such as a loan default, occurring?
+
+•
+
+Forecasting. Determining the quantitative impact of events or attributes on one variable
+(for example, a home’s value, which can be determined by its attributes, the age of the
+house, number of rooms, and local schools, but also events, local market fluctuations,
+Federal Reserve interest rates, and other factors).
+
+•
+
+Anomaly detection. Identifying data points that are outside the range of standard data
+(for example, determining if an insurance claim is fraudulent).
+
+•
+
+Clustering. Grouping data that share characteristics or qualities (for instance, placing a
+hospital’s patient population into a category based on qualifying characteristics such as
+insurance provider, illness, or age).
+
+•
+
+Time series. A subset of forecasting where the model attempts to predict an event over
+a time range (for example, growth in sales over the next three months or number of new
+clients over the next week).
+
+How Predictive AI Works
+As stated above, predictive AI uses historical data to predict future outcomes. The more
+data the system has access to, the more accurate its predictive capabilities will be. As with
+GenAI, predictive AI returns the best results with clean data. Removing the outliers,
+incomplete entries, and anomalies improves the results.
+Predictive AI generally uses three types of techniques to perform its tasks:
+•
+
+Regression analysis. Regression is a statistical analysis technique used to study the
+relationships among dependent and independent variables, such as a home’s value, and
+the attributes and events they are dependent on.
+
+•
+
+Decision trees. These classification models categorize data based on their different
+variables. They are called decision trees because the model resembles a tree, with each
+branch representing a selection option and the leaf representing the result of that
+selection. These models are best used when trying to understand and predict individual
+decisions.
+
+•
+
+Neural networks. When there are complex predictive relationships, ML can utilize neural
+networks. Neural networks are adept at pattern recognition and determining nonlinear
+relationships and can also be used to validate the results of other techniques.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+17
+
+Benefits of Predictive AI
+
+Limitations of Predictive AI
+
+Predictive AI is a game-changing technology for
+organizations and corporations that can save time,
+increase revenue, and lower costs with its
+analytical powers. Some of the benefits of
+predictive AI are:
+
+Though predictive AI can be an asset to help a
+business or organization grow, understand its
+customers and clients, or determine courses of
+action, it does have limitations. Understanding
+these limiting factors can enable organizations to
+optimize their use of predictive AI while
+safeguarding their strategies from an overreliance
+on AI. Some of the limitations or dangers of
+predictive AI include:
+
+•
+
+Adaptability. With its ability to consume realtime data, predictive AI can adapt to changes to
+variables, whether they are occurring in the
+marketplace or a science lab.
+
+•
+
+Interpretability. This feature is the extent to
+which humans can understand how the models
+work and observe the relationship information
+discovered by the model, either in the data or
+through its learning.
+
+•
+
+Simplification. Predictive AI manages the
+complex task of running statistical and
+probability models and provides humans with
+explainable answers and decision suggestions.
+
+•
+
+•
+
+Overreliance on historical data. The
+investment world’s axiom that past
+performance does not indicate future returns
+can be taken to heart here. An organization’s
+historical data is an excellent starting point for
+predictive AI. That data should be continually
+augmented with real-time and external data
+sources.
+
+•
+
+Data bias. If the underlying data are biased, the
+model’s results may be inconsistent or wrong.
+To mitigate the chances of bias affecting the
+model’s results, the data should be analyzed
+thoroughly before being input, and there should
+be model governance practices instituted to
+reduce the risk.
+
+•
+
+Lack of explainability. The more complex a
+model, such as neural networks, the higher the
+likelihood it will be less transparent and more
+difficult to explain. Part of the success of an AI
+system is having business leaders understand
+how it functions and arrives at the predictions it
+delivers.
+
+•
+
+Prediction bias. If a model receives too much or
+too generalized training, its results can be
+skewed. Customer-purchasing predictions that
+are accurate for the produce section of a
+grocery store may not translate to a footwear
+store.
+
+Automation. Automation is the ability to provide
+predictive analysis, either on a timed cadence
+or through an event trigger.
+
+Predictive AI is a gamechanging technology for
+organizations and
+corporations that can save
+time, increase revenue, and
+lower costs with its
+analytical powers.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+18
+
+Applying AI in Project Management
+Applying AI in Project
+
+The first section of this guide provides an overview of AI. If you haven’t already, please read
+it for a foundational understanding of AI technology. This second part covers a range of AI
+applications tailored to project management tasks. Through case studies, it illustrates
+successful AI implementations in various industries, demonstrating how AI-driven insights
+can lead to more informed decision-making and improved project performance.
+This section focuses on determining where AI can be most beneficial in project
+implementations. By following the insights and strategies outlined in this guide, project
+practitioners will be well equipped to harness the power of AI, drive innovation, and achieve
+superior project results.
+
+The Role of Project Professionals in AI Projects
+As organizations increasingly adopt and integrate AI into their work, the roles of project
+professionals are crucial in navigating the unique challenges and considerations that come
+with these cutting-edge projects. Project practitioners will not only benefit from AI as an
+assistive or augmenting tool, but will also play an integral role in the implementation of AI.
+•
+
+Governance and ethical oversight. Project professionals will play a vital role in
+establishing robust governance frameworks and ethical guidelines for AI projects.
+Project practitioners will help ensure that both the development and deployment of AI
+systems align with organizational values, regulatory requirements, and societal norms.
+This alignment includes addressing potential biases, privacy concerns, and the
+responsible use of AI.
+
+•
+
+Risk management. All AI projects carry
+inherent risks such as the potential for
+unintended consequences, model
+instability, or misuse. Project
+professionals will be responsible for
+identifying, assessing, and mitigating
+these risks through comprehensive risk
+management strategies, contingency
+planning, and close collaboration with
+AI experts and stakeholders.
+
+•
+
+As organizations increasingly
+adopt and integrate AI into
+their work, the roles of
+project professionals are
+crucial in navigating the
+unique challenges and
+considerations that
+come with these cuttingedge projects.
+
+Cross-functional collaboration. AI
+projects often require a diverse set of
+skills and expertise, including data
+scientists, AI researchers, domain
+experts, legal and ethical advisors, and
+more. Project practitioners will facilitate effective communication and collaboration
+among these cross-functional teams, ensuring alignment, knowledge sharing, and
+seamless integration of efforts.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+19
+
+•
+
+Change management. The integration
+of AI systems may require significant
+changes to existing processes,
+workflows, and organizational culture.
+Project professionals will play a crucial
+role in managing these changes,
+addressing resistance, and ensuring a
+smooth transition by providing training,
+communication, and support to
+impacted stakeholders.
+
+As AI technology becomes
+more prevalent, project
+management practitioners
+will play a pivotal role in
+ensuring the successful
+delivery of these complex
+projects, while balancing
+technical considerations
+with ethical and
+organizational priorities.
+
+•
+
+Performance monitoring and
+evaluation. As AI systems are deployed
+and integrated into various applications,
+project practitioners will be responsible
+for monitoring their performance,
+evaluating their impact, and making necessary adjustments or refinements.
+This includes establishing metrics, collecting feedback, and continuously
+improving the AI systems.
+
+•
+
+Resource management. AI projects often require specialized hardware, computing
+resources, and access to large data sets. Project practitioners will need to effectively
+manage and allocate these resources, ensuring optimal utilization and costeffectiveness.
+
+•
+
+Continuous learning and adaptation. The field of AI is rapidly evolving, with new
+breakthroughs and advancements happening regularly. Project professionals should
+stay current with the latest developments, foster a culture of continuous learning within
+their teams, and adapt project management plans and strategies as needed to leverage
+emerging technologies and best practices.
+
+As AI technology becomes more prevalent, project management practitioners will play a
+pivotal role in ensuring the successful delivery of these complex projects, while balancing
+technical considerations with ethical and organizational priorities. Their leadership,
+communication skills, and ability to navigate cross-functional teams will be essential in
+unlocking the full potential of GenAI while mitigating risks and fostering responsible
+innovation.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+20
+
+How Can AI Best Enhance Project Management?
+AI is best applied where there is a need for machines to provide automation, assistance, or
+augmentation of human abilities in key areas across the seven patterns of AI:
+•
+
+Autonomous systems. Systems that can accomplish a task.
+
+•
+
+Conversation and human interaction. Machines and humans interacting in
+conversational ways.
+
+•
+
+Hyper-personalization. Catering to individual customers.
+
+•
+
+Goal-driven systems. Enabling AI to learn through the attainment of goals.
+
+•
+
+Pattern and anomaly detection. Finding anomalies or outliers in data and processes.
+
+•
+
+Predictive analytics. Determining the probability of a future outcome.
+
+•
+
+Recognition. Distinguishing different images, video, audio, and objects, including
+classifying and identifying objects.
+
+For a detailed overview of each pattern, see the section on AI Patterns in the first half of
+this guide.
+Figure 4 shows that AI systems are most efficient when used in an assisting or augmenting
+capacity. These systems are better at handling processes with a high degree of variability
+in inputs and outputs than repetitive tasks requiring high accuracy.
+
+Project business
+case creation
+
+High
+
+How complex is the task?
+
+Project
+decision-making
+Risk
+analysis
+Large data set
+analysis
+Cost-benefit
+analysis
+Cost and schedule
+estimation
+Lessons learned
+summary
+
+Report
+generation
+
+Low
+Meeting notes
+summary
+
+Machine
+
+Automating
+
+Assisting
+
+Who does the work?
+
+Augmenting
+Human
+
+Figure 4. AI’s Efficiency in Automating, Assisting, and Augmenting Processes
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+21
+
+The next section will review how AI applications can perform or assist with various project
+management tasks, providing a starting point for any project practitioner to begin
+integrating AI into their routines.
+As project practitioners begin to explore AI use for their own projects, a helpful resource is
+the PMI Prompt Engineering Exchange, which contains vetted prompts used by a
+community of project professionals.
+
+AI in Project Management Planning
+Every project has unique challenges and requirements and is performed by a specific team
+that has unique strengths and weaknesses. GenAI can analyze past and current
+organizational and project data to tailor project management approaches and
+methodologies to better suit the current project’s needs and format a cohesive project
+management plan.
+
+Artificial intelligence is an
+excellent fit for helping with
+project planning as it can
+quickly analyze vast amounts
+of data, predict future
+resource needs, and
+optimize schedules.
+
+A detailed project management plan can
+be the determining factor between a
+project’s success and failure. A plan with
+well-defined requirements, roles,
+schedules, resource allocation, risk
+recognition, contingency actions, and
+dependency awareness can help ensure a
+project meets its objectives. Project
+planning is so important to project
+success that it has been noted as the
+primary function of project management.
+
+Artificial intelligence is an excellent fit for
+helping with project planning as it can
+quickly analyze vast amounts of data, predict future resource needs, and optimize
+schedules. By applying AI, including GenAI, project management plans can be dynamically
+adjusted in real time, enhancing flexibility and accuracy and contributing to more efficient
+resource use and improved project outcomes. Some of the project planning tasks that AI
+can assist with or augment are:
+•
+
+Project prioritization. When multiple projects are happening at once, it can be difficult
+to prioritize the work. Every stakeholder wants their project’s work sent to the top of the
+list. AI can help prioritize work through data-driven analysis of return on investment and
+success potential. Using predictive analytics, an AI system can quickly provide a
+hierarchical list of project tasks based on the input criteria.
+
+•
+
+Risk identification and management. Every project has some inherent risks, but
+identifying those risks and developing contingency plans is time-consuming and
+imperfect. AI can analyze historical project data and current project conditions in real
+time to predict potential risks and suggest mitigation strategies.
+•
+
+Example prompt: Generate a risk assessment report for the project: [Upload project
+management plan and historical project data]. Include a detailed analysis of 		
+identified risks, their potential impacts, and recommended mitigation strategies.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+22
+
+•
+
+Resource allocation. How many projects have started as simple ones, only to become
+more complex over time? The more complex the project becomes, the more difficult it is
+to plan for resource allocation. AI can create an analysis of the project needs, current
+capabilities, and potential dependency roadblocks to create an optimized resource
+management plan.
+
+•
+
+Scheduling. The project team has
+allocated the resources; now they must
+create a schedule. This is easier said
+than done. What if the project has
+multiple teams across business units or
+incorporates shared resources? How
+do they account for dispersed teams
+and time zone differences? The
+automation pattern can create a
+schedule based on project milestone
+dates and resource availability.
+•
+
+•
+
+•
+
+AI can create an analysis of
+the project needs, current
+capabilities, and potential
+dependency roadblocks to
+create an optimized resource
+management plan.
+
+Example prompt: Generate a project schedule that accommodates the following
+multiple teams across different business units, ensuring no resource conflicts. 		
+[Provide team names and their availability and a list of shared resources, project
+milestones, and deadlines.]
+
+Creating business use cases. Business use cases help to understand a project’s
+benefits or the step-by-step interactions between the product and clients. Use cases
+can be difficult to write and may require in-depth research. GenAI, with proper
+prompting, can help create business use cases for various personas.
+•
+
+Example prompt: Identify popular trends in the industry of [product or service] that
+an audience of [target audience] will be interested in this [upcoming season].
+
+•
+
+Example prompt: How would you create a case study for [client] that focuses on their
+last four years of growth in both products and employees? Include sections on 		
+challenges, solutions, and outcomes.
+
+•
+
+Example prompt: Create a case study of [client] and their partnership with [partner].
+Include details on collaboration, processes, challenges, benefits for each party, and
+expected outcomes.
+
+Vendor selection. The selection process can be difficult when a project requires a third
+party to provide a work component. Research on the industry, pricing, competency,
+capacity, and other factors will be required. GenAI can assist in this process, from
+creating a checklist of required items from a vendor to quickly listing vendors, services,
+and prices.
+•
+
+Example prompt: As a project manager, you need to select a vendor for [activity].
+There are two vendors currently in the running. Each of their proposals is attached.
+Provide a comparative analysis of the two vendors in table form.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+23
+
+AI in Decision-Making
+Each project, at every stage, requires a multitude of decisions, from vendor and resource
+selection to budgets and timelines. Analyzing the factors involved can create delays at
+each decision-making inflection point.
+An AI solution can help remove some of the delays and uncertainty in the decision-making
+process. By utilizing combinations of the autonomous system, predictive analytics, and
+pattern and anomaly detection patterns, the time spent on decision-making, from
+gathering to analyzing data, can be reduced. AI can contribute to better decisions to help
+improve the overall success of a project.
+The integration of GenAI into the decision-making process requires evaluation of ethical
+and security concerns to make sure data are secure and unbiased, as this can give AI the
+credibility it needs. High-quality and robust data governance is key to the success of GenAI
+because performance is significantly influenced by the data used. GenAI should be
+explicitly defined in the decision-making process, and the institution should maintain
+transparency and develop directives to deal with bias as well as ethics.
+•
+
+Data-driven decision-making. Project
+management involves handling vast
+amounts of data, including timelines,
+budgets, resources, and project
+outcomes. Having a lot of data can
+present problems with how they can be
+filtered, measured, and visualized to be
+useful in the project management
+decision-making process to make
+critical and strategic data-driven
+decisions. GenAI can analyze these
+data more efficiently than traditional
+methods, providing insights that might
+not be immediately apparent.
+•
+
+Example prompt: Generate a 		
+dashboard that visualizes key 		
+performance indicators (KPIs) such
+as project progress, resource 		
+utilization, budget adherence, and
+risk factors. [Upload relevant data.]
+Provide insights into areas needing
+attention.
+
+An AI solution can help
+remove some of the delays
+and uncertainty in the
+decision-making process. By
+utilizing combinations of the
+autonomous system,
+predictive analytics, and
+pattern and anomaly
+detection patterns, the time
+spent on decision-making,
+from gathering to analyzing
+data, can be reduced.
+
+•
+
+Automated testing. Quality assurance is a key phase in the product life cycle,
+particularly for technical products. AI-driven quality automated testing significantly
+enhances quality assurance by using AI to analyze code, predict potential issues, and
+execute comprehensive test scenarios. AI can use historical data to generate and
+prioritize test cases, adapt to changes in the codebase, and provide real-time feedback.
+
+•
+
+Analyzing project trends. To help ensure success, project practitioners analyze project
+trends to make informed decisions, track progress, and identify potential issues. These
+trends can often be found in historical data but can be difficult to identify within
+spreadsheets and reports. An AI service can filter through the data, find trends and
+anomalies, and provide an analysis and course of action for them.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+24
+
+AI in Project Monitoring
+Project monitoring ensures a project is meeting milestones and deadlines. It assures the
+project manager, key stakeholders, and others that the project is progressing as planned.
+AI-assisted project monitoring can provide timed reports and overviews on the state of a
+project, enabling the monitoring process to be leaner and more efficient.
+•
+
+Project reports. Reporting is essential
+for project professionals as it provides
+insights into a project’s health and the
+AI-assisted project
+actions necessary to keep it on track. It
+monitoring can provide timed
+is a vital information flow for team
+reports and overviews on the
+members, key stakeholders, and
+state of a project, enabling
+executive staff. GenAI can automate
+tasks such as scheduling, generating
+the monitoring process to be
+reports, and updating project statuses
+leaner and more efficient.
+that practitioners can then review for
+accuracy. This automation allows
+project professionals to focus on more
+strategic aspects of their projects, such as risk management and stakeholder
+engagement, thereby enhancing overall productivity. Project professionals can enhance
+their efficiency by automating the creation of reports with GenAI.
+•
+
+Example prompt: Create an executive summary for the project’s monthly review.
+[Upload project progress data.] Highlight key achievements, budget status, resource
+utilization, and any critical risks.
+
+•
+
+Project tracking. Project reports require detailed tracking of project data. The data can
+be momentous, such as when a milestone has been reached or a project component
+has progressed, like the number of remaining Jira tickets. These reports can take time to
+compile and may potentially be outdated by the time they are delivered. AI can track
+project data in real time to create live reports that reflect a project’s actual status and
+progress.
+
+•
+
+Project health statistics. The health of a project can be determined by reviewing key
+metrics such as schedule adherence, budget performance, resource allocation, risk
+assessment, scope management, and other data points.
+•
+
+Example prompt: Generate a dashboard that visualizes the overall health of the
+project. [Upload project data.] Include charts and graphs showing progress, budget
+status, resource allocation, and risk levels.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+25
+
+AI in Communication and Collaboration
+Effective communication is crucial in project management. GenAI can facilitate improved
+communication by generating status updates, reports, and tailored messages to
+stakeholders. It can also translate technical jargon into simpler language, making
+information more accessible to all project stakeholders, thereby ensuring everyone involved
+in the project is working with the same information.
+•
+
+Automating communications. One key to a successful project is providing the right
+information to the right people at the right time. Information synergy, ensuring all
+decision makers have the same data on which to make their decisions, is vital. With
+dispersed teams, having the ability to find the knowledge they need through trusted
+sources enhances productivity and saves time. AI systems are uniquely positioned to
+assist and augment the communications strategy of any project management team.
+They can run chatbots that enable users to get the information they need or automate
+the distribution of project data in real time.
+
+•
+
+Note-taking and dictation. The
+business world can, at times, seem like
+an endless series of meetings, both
+on-site and virtual. One of the leading
+uses of AI has been meeting assistance, specifically taking meeting notes.
+Some of the benefits of allowing an AI
+meeting assistant to take the meeting
+minutes include:
+
+•
+
+•
+
+Transcription. Through NLP, the AI
+can convert the meeting conversations into accurate text, eliminating the need for manual transcription.
+
+•
+
+Organization. Meeting assistants can categorize and tag notes to organize them.
+
+•
+
+Search. Using AI to create the meeting notes enables meeting summaries to 		
+become searchable within a notes archive.
+
+•
+
+Integration. Meeting notes can be integrated with other productivity tools and used
+as part of ML training.
+
+Aggregating information. Projects produce large amounts of information, and
+aggregating, organizing, and distributing it can be a time-consuming task. An AI system
+can aggregate and organize the information in real time and distribute it to the correct
+recipients on a cadenced or event-triggered schedule.
+•
+
+•
+
+GenAI can facilitate improved
+communication by
+generating status updates,
+reports, and tailored
+messages to stakeholders.
+
+Example prompt: Collect and aggregate feedback from project stakeholders. 		
+[Upload feedback data.] Organize feedback by theme and priority and distribute a
+summary report to the project manager.
+
+Automated to-do lists and reminders. Task reminders are great for helping workers
+create a hierarchy of their work—if you can remember to create the reminder. AI can
+create task reminders on various event triggers such as milestone completion or
+ticket closures.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+26
+
+AI in Document Management
+Every project has various documentation needs, from regulatory requirements to user
+guides. An AI system can monitor the current state of both required and added
+documentation and can even create needed content.
+•
+
+Identifying documentation needs. Documentation is often overlooked until the near
+completion of a project, particularly in software development. Engineering teams, often
+burdened with tight capacities and deadlines, can struggle, even with a documentation
+team on hand, to create basic content or even determine what content to create. An AI
+model can review the code base or project details to decide what content is needed
+and, in some cases, generate the content.
+
+•
+
+Analyzing key insights from documentation. Project documentation analytics is ripe
+with actionable data. Reviewing page views and search queries can indicate what
+features users value most and indicate where learning modules can be of value. A
+combination of views and document age can prioritize which content needs to be
+reviewed. This analysis takes time and resources. An AI assistant can gather the
+necessary metrics and provide a report with actionable items.
+•
+
+Example prompt: Analyze the page views of all project documentation over the past
+month. [Upload page view data.] Identify the most- and least-viewed documents and
+provide insights into user engagement.
+
+AI in Cost Management
+Keeping a project within its allocated
+budget is a prime responsibility for project
+professionals. There are countless stories
+of projects that have gone over budget or
+were shut down due to cost overflows—
+and the impact of a shutdown goes
+beyond the project. PricewaterhouseCoopers found that when a corporation
+announces a shutdown of a capital
+project, there is a correlating average
+reduction of 15% in share price. 8
+
+By using predictive analysis
+and pattern recognition,
+GenAI can help generate a
+first draft of a cost-benefit
+analysis that highlights
+potential returns and costs
+associated with a project.
+
+AI can assist the project professional in monitoring project expenses through
+up-to-date financial data presented in spreadsheets and reports.
+•
+
+Budget optimization. Allocating resources as efficiently and effectively as possible is a
+key goal of any project. A comprehensive budget analysis requires data about an
+organization’s revenue, expenses, assets, and liabilities. These data will need to be
+combined with factors such as project budget, market trends, consumer behavior,
+competitors’ efforts, and other information. Gathering this data can be time-consuming.
+Analyzing this information may require a specialist.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+27
+
+•
+
+Utilizing an AI system can streamline this task as well as provide project practitioners
+with detailed analysis such as identifying potential budget overruns, optimizing resource
+allocation, automating budget tracking, and other budget-related tasks.
+•
+
+Example prompt: A software development project has a US$100,000 budget and a
+timeline of six months. After three months, the actual cost (AC) is US$60,000 and the
+project is 50% complete. What are the risks of not completing the project on time
+and on budget? Am I over or under budget at this point? Am I behind or ahead of
+schedule? What is the earned value (EV), estimate to complete (ETC), and valueadded control?
+
+•
+
+Cost-benefit analysis. Determining
+whether a project is worth the cost can
+be daunting. From gathering the
+An AI system can make the
+information to crunching through
+spreadsheets and reports, a costcost-planning process more
+benefit analysis is not for the meek. By
+efficient by reviewing
+using predictive analysis and pattern
+historical project costs
+recognition, GenAI can help generate a
+and providing a predicted
+first draft of a cost-benefit analysis that
+cost analysis for the
+highlights potential returns and costs
+associated with a project. AI can also
+proposed project.
+utilize predictive analysis and pattern
+recognition to analyze financial data,
+project metrics, and market trends. With
+GenAI, organizations can create a more
+detailed cost-benefit analysis of a project that a project practitioner would then need to
+investigate deeper into the initial figures, considering various scenarios and integrating
+additional data points to ensure the analysis is thorough and accurate.
+
+•
+
+Cost planning. Every project needs a cost management plan to determine the project
+scope and what tasks can be accomplished within that scope. An AI system can make
+the cost planning process more efficient by reviewing historical project costs and
+providing a predicted cost analysis for the proposed project. It can also assist the
+project practitioner in listing the financial approval requirements, locating approved
+financial resources, and generating required financial documentation.
+•
+
+Example prompt: Compare the current project’s cost management plan with 		
+historical projects of similar scope. [Upload historical cost data and current project
+cost management plan.] Highlight any significant differences and provide 		
+recommendations.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+28
+
+AI in Training and Development
+GenAI can also play a crucial role in the training and development of project professionals
+and teams.
+•
+
+Scenario-based learning. By providing simulations and scenario-based learning, GenAI
+can help project professionals improve their skills in a risk-free environment. This
+training can cover various aspects of project management, from stakeholder
+engagement to risk assessment, ensuring that project teams are better prepared for
+real-world challenges.
+
+•
+
+Project simulations. Project management simulations can analyze current projects and
+serve as a training tool for project practitioners. In real-world projects, simulations can
+help reduce risks and optimize project management plans. AI can be utilized to create a
+model and simulate different scenarios using project data. The model can then be used
+to predict the outcomes of the different scenarios and provide the organization with
+information to make a data-driven decision.
+
+Getting the Most From AI
+Organizations often find themselves
+caught in the wave of the latest trend and
+invest in resources without thoroughly
+investigating if those resources are
+appropriate to support their business
+strategies. The use of AI throughout the
+business world is no exception to this rule.
+
+AI is a formidable asset that
+can contribute to an
+organization’s overall
+goals and success.
+
+AI is a formidable asset that can contribute
+to an organization’s overall goals and
+success. However, before implementing and integrating AI solutions, the KPIs and success
+criteria should be defined. Focus on the business problems first and the AI solutions
+second.
+
+As a Project Professional
+As a project professional, understanding how to effectively leverage AI within your projects
+is crucial. By aligning AI initiatives with clearly defined business objectives and KPIs, you
+can help ensure that your AI investments drive meaningful outcomes.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+29
+
+Think Big but Start Small
+As the saying goes, success begets success. Starting with smaller, easier-to-manage
+implementations can save a company money and time as it ramps up its AI integration. An
+organization’s first foray into AI should mimic the goal-driven system pattern, where trial
+and error eventually lead to learning and can provide a blueprint for scalable success.
+•
+
+Take inventory of all your projects, including the latest status updates.
+
+•
+
+Create a portfolio of use cases that will be impactful, measurable, and can quickly be
+implemented to provide an immediate solution.
+
+•
+
+Utilize the seven patterns of AI outlined in this guide to help plan those use cases.
+
+•
+
+Ensure your engineering staff has the capability to handle the data needs as well as the
+AI installation and support.
+
+•
+
+Create cross-functional teams with the right mix of skills in subject expertise, business
+skills, analytics, engineering, and AI.
+
+Focus on the Data
+Regardless of the type of system installed or patterns utilized, data are required to get the
+most return on an AI investment. The more data an AI system can access, the better it can
+perform, particularly for predictive and comparative analyses.
+One of the more important preimplementation tasks is conducting a data assessment and
+curation. AI systems still operate on the “garbage in, garbage out” axiom. Detailed, relevant,
+and focused historical data will enable a company’s AI system to achieve more optimal
+results. The following tasks should be performed:
+•
+
+Gather your data, including content in spreadsheets and reports;
+
+•
+
+Clean the data by removing or correcting missing values, outliers, or inconsistencies;
+
+•
+
+Format the data to make them compatible with ML algorithms; and
+
+•
+
+Reduce the complexity of data without losing the information.
+
+As an Organization
+Utilizing AI as an organization requires a
+strategic approach to ensure successful
+integration and alignment with overall
+business goals. By carefully planning AI
+initiatives, organizations can harness the
+power of AI to drive innovation, improve
+efficiency, and achieve long-term success.
+
+By carefully planning AI
+initiatives, organizations can
+harness the power of AI to
+drive innovation, improve
+efficiency, and achieve
+long-term success.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+30
+
+Augmenting AI Systems to Get More Value
+Many of the use cases and examples described in this guide can be used with off-theshelf AI technology and public LLMs. However, there are situations when those off-theshelf solutions can’t be used as-is or at all, or there is an organizational need to get more
+from the off-the-shelf solution. In this case, project professionals should seek more
+sophisticated approaches to extract value from AI systems.
+
+Retrieval-Augmented Generation
+There will potentially be scenarios where organizations need more from their AI system
+than what was provided with the core implementation. When a project requires critical
+data, such as domain-specific accuracy, up-to-date information, and contextual relevance,
+the training data on which the LLMs have been built might not have the information
+needed. For example, in complex project management tasks requiring detailed knowledge
+from proprietary documents, historical project data, and industry-specific regulations,
+project practitioners need approaches that augment LLMs with domain-specific,
+proprietary, or other custom data.
+Retrieval-augmented generation (RAG) is an approach that leverages a data repository of
+custom information that can be used to enhance the accuracy and relevance of generated
+content. When a query is presented in a RAG system, the AI first retrieves content from a
+database containing relevant data. This information is then used to inform and guide the
+generation process, producing responses that are contextually appropriate and factually
+accurate.
+A RAG-augmented AI can dynamically retrieve and integrate specialized information to
+generate precise and contextually appropriate responses. In contrast, public LLMs, which
+rely on a static knowledge base up to their last training cut-off, may not provide the
+specificity or current data needed for these tasks.
+Project professionals might find RAG particularly beneficial for several reasons:
+•
+
+Enhanced accuracy and relevance. Unlike traditional prompt engineering, which relies
+on crafting specific prompts to elicit desired responses from a generative model, RAG
+ensures that responses are grounded in up-to-date and relevant information. This is
+crucial for project management, where accurate and contextually relevant information is
+essential for decision-making and planning.
+
+•
+
+Access to the latest information. RAG models can integrate the newest information
+dynamically by retrieving the most current data available. This capability is especially
+valuable in fast-paced project environments where conditions and information change
+rapidly. Using RAG, project practitioners can ensure that the AI-generated insights and
+recommendations are based on the most recent and pertinent data.
+
+•
+
+Reduced need for extensive prompt engineering. Crafting effective prompts for
+generative models can be time-consuming and requires a deep understanding of the
+model’s behavior. RAG simplifies this process by relying more on retrieving relevant
+documents to inform responses, reducing the burden on project practitioners to
+develop and fine-tune complex prompts. This allows project professionals to focus
+more on strategic tasks than on the intricacies of prompt engineering.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+31
+
+Fine-Tuning AI
+When the available AI models cannot provide the specific results needed and RAG
+solutions aren’t applicable, organizations might need to tailor the models to fit their specific
+needs.
+General-purpose LLMs are good for general-purpose NLP tasks. What if an organization
+needs them to provide specific responses for non-NLP applications or other specific
+requirements? LLMs generally don’t work well out of the box for highly specific tasks since
+they are trained on general text data from the web.
+For instance, if an LLM is to be used in a specialized industry, such as legal or medical
+fields, fine-tuning is necessary to ensure the model understands and accurately processes
+the industry’s terminology and nuances. Similarly, when a model must adapt to specific
+organizational data or user preferences, refinement helps enhance its performance and
+relevance.
+Prompt engineering and RAGs might not
+work well in some situations, including:
+•
+
+AI assistance with highly technical,
+specific, or proprietary information;
+
+•
+
+Tasks that require interaction with a
+very specific set of information;
+
+•
+
+Training in languages that isn’t well
+covered by the mode;
+
+•
+
+Avoiding publicly available LLMs for
+cost or privacy/security reasons; and
+
+•
+
+Increasing response time and speed.
+
+When a model must adapt to
+specific organizational data
+or user preferences,
+refinement helps enhance
+its performance
+and relevance.
+
+In these and other scenarios, LLMs can be tweaked to be better aligned with target
+applications, more accurate, and more context-aware about what NLP responses are
+needed.
+Fine-tuning AI systems involves several steps, beginning with collecting and preparing a
+relevant data set. This data set should be representative of the specific tasks or domains
+where the AI will be applied. For LLMs, this might involve gathering domain-specific texts or
+user interactions that reflect the language and context the model needs to understand.
+The model then undergoes a training process on this data set, adjusting the various model
+parameters to better align with the new information. Monitoring performance metrics
+during this process is crucial to avoid overfitting, where the model becomes too tailored to
+the fine-tuning data and loses its generalization.
+Fine-tuning AI models, particularly LLMs, can be resource-intensive, requiring significant
+computational power and time. Organizations should have the necessary infrastructure to
+handle these demands such as powerful GPUs or access to cloud-based AI training
+services. They also need the requisite skills and experience to run fine-tuning projects.
+Monitoring the training process closely is also beneficial and teams can use tools that
+visualize performance metrics and model behavior to make real-time adjustments.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+32
+
+After fine-tuning, it is crucial to rigorously evaluate the model to ensure it meets the desired
+performance standards. This involves testing the model on a separate validation data set
+that it has not seen during the fine-tuning process to check for overfitting and assess its
+generalization ability.
+
+Using Other Off-the-Shelf Models
+While the popular LLMs are powerful and continue to evolve with increasing capabilities,
+they are still primarily focused on prompt-based interaction styles for generating or
+analyzing content in one or more modes. Needs for different AI patterns, such as pattern
+and anomaly detection, predictive analytics, autonomous systems, goal-driven systems,
+and hyper-personalization, might not be able to effectively or efficiently use the generalpurpose LLMs.
+In many cases, pretrained models have already been built to address those specific needs.
+Off-the-shelf, publicly available, pretrained ML models are an excellent resource for many
+applications, especially when time, resources, or expertise to develop custom models are
+limited. These models, trained on large data sets by reputable institutions or companies,
+can be quickly deployed to solve various problems across different domains. They are
+particularly useful for tasks like image recognition, speech-to-text conversion, and
+sentiment analysis, where pretrained models provide state-of-the-art performance without
+requiring extensive training.
+One of the primary benefits of using off-the-shelf models is reduced development time. For
+instance, pretrained models like ResNet or Inception can be readily used in image
+recognition tasks such as classifying objects in photos or detecting defects in
+manufacturing lines. These models come with well-documented application programming
+interfaces (APIs) and integration guides, allowing project professionals and developers to
+implement them into existing systems quickly. Similarly, other models exist that have been
+built for forecasting applications, anomaly detection, and other applications that can be
+directly applied. Many of these models are posted on model-sharing and repository sites.
+While off-the-shelf models offer significant advantages, there are key factors to consider
+when deploying them:
+•
+
+Evaluating whether the pretrained model’s training data and performance metrics align
+with your specific use case is essential. For example, organizations deploying a
+sentiment analysis model for a niche industry should ensure the model has been trained
+on relevant data sets or be prepared to fine-tune it with domain-specific data.
+
+•
+
+Consider the ethical implications and potential biases inherent in pretrained models.
+These models may carry biases from their training data, so assessing and mitigating
+any unintended consequences is crucial.
+
+•
+
+Ensure the models adhere to the organizational and industry privacy and data security
+regulations.
+
+•
+
+Organizations should consider the support structure for these models. Many support
+structures are small teams or individuals who may be unable to offer the assistance or
+incident help that a larger company offers.
+
+•
+
+Review the end-user license agreements, citation requirements, and other legal
+requirements associated with the model.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+33
+
+Risks of AI in Project Management
+Adopting any process involves potential risks, and organizations should conduct a full risk
+assessment to determine whether the correct solution is available. AI systems are no
+exception to this rule.
+
+Data Privacy Issues
+AI systems often require vast amounts of
+data to function effectively, and this data
+Regular audits and
+can include sensitive information about
+individuals and organizations. Compliance
+assessments can help identify
+with data privacy regulations, such as
+and mitigate privacy risks,
+General Data Protection Regulation
+ensuring that the use of AI
+(GDPR) or California Consumer Privacy Act
+systems does not
+(CCPA), is paramount when implementing
+compromise the privacy of
+an AI solution. Project professionals
+should implement robust data-protection
+stakeholders involved.
+measures, including encryption,
+anonymization, and access controls, to
+safeguard personal and confidential data.
+Regular audits and assessments can help identify and mitigate privacy risks, ensuring that
+the use of AI systems does not compromise the privacy of stakeholders involved.
+
+Personally Identifiable Information in the Data
+Data collection can inadvertently capture sensitive or personally identifiable information if
+not properly managed. For instance, an AI system that analyzes customer feedback might
+collect names, addresses, and other private details from user reviews or social media
+interactions. If data are not adequately anonymized or encrypted during storage, they can
+become a target for cyberattacks, leading to potential data breaches. Unauthorized access
+to such data can result in significant privacy violations, impacting individuals whose
+information has been exposed—and the organization’s reputation.
+
+Individual Identification Through Inference
+Even when data are anonymized, AI systems can sometimes infer sensitive information
+through data patterns. This process, known as inference, involves using seemingly
+innocuous data to predict private attributes. For example, an AI system analyzing purchase
+histories might infer a person’s health conditions or financial status. Additionally, advanced
+algorithms can reidentify individuals by combining anonymized data with publicly available
+information. This risk is heightened when AI systems access and cross-reference multiple
+data sources. Such capabilities pose significant privacy threats, as individuals might
+unknowingly have their personal lives reconstructed and exposed through AI inferences.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+34
+
+Third-Party Data Risks
+AI systems often operate within ecosystems involving multiple stakeholders, including
+third-party vendors and cloud service providers. When data are shared across these
+entities, the risk of compromising data privacy increases. Each transfer point introduces a
+potential vulnerability, whether through inadequate security measures or differing privacy
+standards across organizations. Furthermore, third-party AI tools might have embedded
+tracking mechanisms or data collection practices that are not transparent to the primary
+user. This lack of visibility and control over data handling by third parties can lead to
+unintentional data leakage or misuse, exacerbating privacy concerns.
+
+Lack of Data Usage Transparency
+One of the fundamental issues with AI and data privacy is the lack of transparency
+regarding data usage. Users are often unaware of how their information is being collected,
+processed, and utilized by AI systems. This lack of informed consent can violate privacy
+expectations and legal standards. AI systems might also employ complex algorithms that
+are not easily understandable, making it difficult for users to grasp the extent of data usage
+and its implications. Individuals cannot make informed decisions about their data without
+clear communication and consent mechanisms, leading to ethical and legal challenges.
+
+The Chilling Effect of Hyper-Personalization
+AI systems have the capacity to create detailed profiles of individuals by analyzing their
+behavior, preferences, and interactions. While this capability can enhance personalization
+and user experience, it also raises significant privacy concerns. Detailed profiling can lead
+to intrusive surveillance, where individuals feel constantly monitored and their behaviors
+scrutinized. This can result in a chilling
+effect, where people alter their behavior
+due to privacy concerns, impacting their
+AI systems have the capacity
+autonomy and freedom. Moreover, in
+environments where AI-driven
+to create detailed profiles of
+surveillance is used by employers or
+individuals by analyzing their
+governments, the potential for abuse and
+behavior, preferences,
+privacy invasion becomes even more
+and interactions.
+pronounced, necessitating robust
+oversight and ethical guidelines.
+
+The Data Life Cycle
+How information is managed throughout its life cycle in AI systems can compromise
+privacy. Many organizations lack clear policies on data retention, leading to the indefinite
+storage of sensitive information. Prolonged retention increases the risk of data breaches
+over time, as older data may not be subject to the latest security protocols. Additionally,
+improper data-disposal methods can lead to residual data being recoverable by
+unauthorized parties. Effective data life cycle management involves establishing clear
+retention schedules, regularly purging outdated data, and ensuring secure disposal
+practices (see Figure 5). Organizations can mitigate the long-term privacy risks associated
+with AI systems by addressing these aspects.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+35
+
+y
+ro
+st
+
+Co
+llec
+t
+
+Transmit
+re and
+Sto
+
+Dispo
+se
+an
+dD
+e
+
+Create and
+
+The Data
+Life Cycle
+
+t
+Re
+
+ai
+
+n
+
+Use and
+
+Dis
+
+u
+tri b
+
+te
+
+Figure 5. The Data Life Cycle
+
+Data Ownership Concerns
+Data ownership is another crucial aspect that project practitioners should consider when
+deploying AI systems. Determining who owns the data used and generated by AI is often
+complex, involving multiple stakeholders such as data providers, AI developers, and end
+users. Clear agreements and contracts outlining data ownership rights are essential to
+prevent disputes and ensure transparency. Project practitioners should work closely with
+legal teams to draft comprehensive data ownership agreements that specify how data can
+be used, shared, and stored. This not only protects the interests of all parties involved but
+also ensures that the project adheres to ethical standards and legal requirements.
+To address data privacy and ownership concerns, project professionals should foster a
+culture of ethical data practices within their teams. This involves promoting awareness
+about the importance of data privacy and ownership, and training team members on best
+practices for handling data. Additionally, implementing strict data governance policies
+helps maintain control over data usage and ensures compliance with relevant laws and
+regulations. By prioritizing ethical data practices, project practitioners can build trust with
+stakeholders and enhance the credibility of their AI initiatives, ultimately leading to more
+successful and sustainable project outcomes.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+36
+
+Data Bias and Fairness
+Machine learning models use existing data to support decision-making. Bias in the models
+represents a serious point of consideration when adopting AI, given the multitude of data
+sources and the lack of a single source of truth regarding data quality validation. Bias
+represents challenges and risks for the following reasons:
+•
+
+•
+
+There is a lack of accurate and
+complete data throughout the
+organization. No organization has
+complete insight into its existing data
+or its underlying uncertainties.
+As humans, project professionals and
+the sources of data used are prone to
+different forms of bias, which can
+present problems for AI inputs and
+outputs.
+
+Can AI Counter Bias?
+
+By prioritizing ethical data
+practices, project practitioners
+can build trust with
+stakeholders and enhance the
+credibility of their AI initiatives,
+ultimately leading to more
+successful and sustainable
+project outcomes.
+
+As a society, we accept bias in some
+situations. An example is car insurance
+premiums. Two people with cars of the same make, model, and year who live in similar
+homes on the same street and work for the same employer doing the same job may pay
+different rates. Age, gender, and marital status are considered when applying for
+insurance rates.
+With an AI-based system, it’s possible that none of your personal characteristics would
+factor into your car insurance rate. Instead, the rate would be based largely on your driving
+behavior. If car insurance companies had comprehensive data on how often you drive, how
+fast you drive, how hard you brake, and how closely you follow the vehicle in front of you,
+they could establish rates based on performance rather than just demographics.
+Project practitioners should be trained in bias mitigation as a prerequisite to using AI.
+
+Hallucinations, Misinformation, and Disinformation
+A critical factor of AI systems is that they can often produce outputs that are incorrect.
+Without knowledge of the subject material, project professionals might take outputs from
+AI systems without realizing that the results are incorrect or misleading.
+When an AI system generates incorrect or nonsensical information without any basis in the
+training data or real-world context, it is called a hallucination. This happens because AI
+systems are trained to provide outputs, even if they aren’t completely confident in those
+outputs. When the training data cannot provide content for the requested information, the
+AI system will confidently produce an incorrect response. For project professionals, this
+means that reliance on AI-generated insights must be tempered with a critical review and
+validation process to ensure that decisions are based on accurate and relevant information.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+37
+
+To mitigate the risk of AI hallucinations, project practitioners should adopt several
+strategies:
+•
+
+Ensure that AI models are trained on high-quality, diverse data sets that accurately
+represent the project’s scope;
+
+•
+
+Regular model validation and updating should be conducted to maintain accuracy and
+relevance; and
+
+•
+
+Human oversight should be integral in the decision-making process to catch and
+correct AI hallucinations.
+
+Using ensemble methods, where multiple AI models provide input, can also reduce the
+likelihood of erroneous outputs. By implementing these practices, project professionals
+can enhance the reliability of AI systems.
+
+Misinformation
+Misinformation from AI systems
+represents a significant risk in project
+management. Misinformation occurs
+when AI provides information that is
+incorrect or misleading due to errors in
+data processing or interpretation. These
+errors can stem from biases in the
+training data, flawed algorithms, or
+insufficient data quality.
+
+It is crucial for project
+professionals to implement
+checks and balances such as
+cross-referencing AI outputs
+with human expertise and
+ensuring transparency in
+how AI systems derive
+their conclusions.
+
+When project practitioners use AIgenerated reports to make strategic
+decisions, misinformation can lead to
+misallocated resources, missed
+deadlines, and failed projects. It is crucial for project professionals to implement checks
+and balances such as cross-referencing AI outputs with human expertise and ensuring
+transparency in how AI systems derive their conclusions.
+Combating misinformation involves establishing robust AI practices prioritizing data
+integrity and algorithm transparency. Project professionals should advocate for using
+explainable artificial intelligence (XAI) systems, which provide insights into how AI decisions
+are made. This transparency allows for better scrutiny and understanding of AI outputs.
+Furthermore, maintaining a rigorous data governance framework ensures that the data
+used by AI systems is accurate, up to date, and free from bias. Regular training for team
+members on AI literacy can help identify and address misinformation promptly, thus
+maintaining the accuracy of project deliverables.
+
+Disinformation
+Disinformation is when data sources intentionally have incorrect or misleading information
+to steer AI systems to desired but incorrect outputs. Disinformation involves intentionally
+spreading false information, and AI systems can be exploited for this purpose. Malicious
+actors can manipulate AI systems by feeding them biased or fabricated data, leading to the
+dissemination of harmful falsehoods.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+38
+
+In the context of project management, disinformation can undermine trust, create conflicts,
+and derail project goals. Project professionals should be aware of the potential for AI
+systems to be targeted by such attacks and should incorporate security measures to
+protect the integrity of their data and AI tools. This includes regular audits, data verification
+processes, and educating team members on the risks of disinformation.
+Proactive measures are essential to address disinformation in AI systems, such as:
+•
+
+Establishing protocols for detecting and responding to disinformation such as anomaly
+detection systems that flag unusual patterns indicative of data manipulation;
+
+•
+
+Collaborating with cybersecurity experts to safeguard AI infrastructure against attacks;
+and
+
+•
+
+Fostering a culture of critical thinking and skepticism toward AI outputs that can
+empower team members to question and verify information before acting on it.
+
+By understanding and addressing these vulnerabilities—hallucinations, misinformation, and
+disinformation—project professionals can harness the full potential of AI systems while
+mitigating risks. This balanced approach ensures that AI remains a valuable asset in
+achieving project goals.
+
+Manipulation and Deepfakes
+AI systems, particularly those involved in content generation and analysis, have increasingly
+been used for manipulation. These systems can generate persuasive text, fake news, and
+misleading information at scale, impacting public opinion and spreading misinformation.
+Advanced NLP models can create realistic, human-like narratives that deceive readers into
+believing false information. This manipulation can influence decision-making, shape
+consumer behavior, and sway public discourse. The ability to generate convincing, tailored
+content makes AI a powerful tool for those looking to manipulate information.
+Deepfakes represent a particularly concerning application of AI for manipulation. Utilizing
+deep learning techniques, deepfakes create hyper-realistic audio, video, and images of
+individuals, making it appear like they are saying or doing things they never did. These
+manipulated media can be incredibly convincing, making it difficult for the average person
+to discern what is real from what is fabricated. Deepfakes can be used to discredit public
+figures, spread false information, and create sensationalized content for malicious
+purposes. The ease with which deepfake technology can be accessed and used poses a
+significant threat to the integrity of information and personal reputations.
+Enhancing detection and verification tools is paramount to minimize the misuse of AI for
+manipulation and deepfakes. Researchers and technologists are developing sophisticated
+algorithms and forensic techniques to identify manipulated content. These tools analyze
+inconsistencies in pixel patterns, lighting, and audio-visual synchronization that often
+indicate deepfakes. By investing in and deploying these detection tools, organizations can
+better identify and mitigate the impact of manipulated content.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+39
+
+Promoting media literacy and awareness is another crucial strategy to combat AI-driven
+manipulation. Educating peers and coworkers on how to evaluate information sources
+critically, recognize signs of manipulation, and verify content through trusted fact-checking
+services can reduce the spread of false information. By fostering a more informed and
+discerning work environment, the effectiveness of manipulative AI content can be
+significantly diminished.
+
+AI and Data Security
+AI systems also present significant data security and cyber threat concerns. The vast
+amounts of data needed to train and operate AI models often include sensitive and
+confidential information. This makes AI systems attractive targets for cybercriminals. Data
+breaches can result in unauthorized access
+to personal information, proprietary
+business data, and intellectual property.
+Additionally, the complexity and opacity of
+By fostering a more informed
+AI models can introduce vulnerabilities, as
+and discerning work
+identifying and mitigating security flaws
+environment, the
+within these systems is often challenging.
+Furthermore, AI systems can be used
+effectiveness of manipulative
+maliciously to automate cyberattacks, such
+AI content can be
+as phishing and malware distribution,
+significantly diminished.
+exacerbating the threat landscape.
+To mitigate data security issues associated
+with AI, organizations should adopt a
+multifaceted approach to data protection. First, employing strong encryption methods for
+data, both in transit and at rest, is crucial. This ensures that even if data are intercepted or
+accessed without authorization, they remain unreadable and unusable. Second,
+implementing strict access controls and authentication mechanisms can limit who has
+access to sensitive data, reducing the risk of insider threats. Regular audits and monitoring
+can help detect unusual access patterns and potential breaches early. Additionally,
+anonymizing data used in AI training processes can protect individual privacy and reduce
+the impact of any potential data leaks.
+Securing AI models and the systems that interact with them is also essential in mitigating
+data security concerns. Organizations should conduct thorough security assessments of
+AI systems to identify and address vulnerabilities. This includes testing for adversarial
+attacks, where malicious inputs are designed to deceive AI models and produce incorrect
+outputs. Techniques such as adversarial training, where models are exposed to and trained
+on adversarial examples, can enhance their resilience. Furthermore, implementing secure
+development practices, such as code reviews and penetration testing, can help ensure that
+AI systems are robust against cyber threats. Keeping AI software and libraries updated with
+the latest security patches is also critical.
+Human factors play a significant role in data security, and enhancing employee awareness
+and training is crucial. Organizations should invest in regular cybersecurity training for
+employees, emphasizing the importance of data protection and the specific risks
+associated with AI systems. Training programs should cover best practices for handling
+data, recognizing phishing attempts, and responding to security incidents. Creating a
+culture of security awareness can empower employees to act as the first line of defense
+against data breaches and cyber threats. Encouraging employees to report suspicious
+activities without fear of repercussions can also help in the early detection and mitigation
+of security issues.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+40
+
+Strong data governance policies are fundamental to securing AI systems and the data they
+handle. These policies should define clear data collection, storage, processing, and sharing
+guidelines. Ensuring compliance with relevant regulations, such as GDPR or the Health
+Insurance Portability and Accountability Act (HIPAA), is essential to avoid legal
+repercussions and protect user privacy. Data governance frameworks should also include
+regular audits and compliance checks to ensure data practices align with established
+policies. By maintaining rigorous data governance, organizations can create a structured
+and secure environment for AI operations, minimizing the risk of data security breaches
+and ensuring the integrity of their AI systems.
+Finally, collaboration and information
+sharing among organizations, industries,
+By maintaining rigorous data
+and government bodies can enhance data
+security in AI systems. Sharing information
+governance, organizations can
+about emerging threats, vulnerabilities, and
+create a structured and
+best practices can help organizations avoid
+secure environment for AI
+potential security issues. Participating in
+operations, minimizing the risk
+industry consortia and working groups
+focused on AI and cybersecurity can
+of data security breaches
+provide valuable insights and resources.
+and ensuring the integrity of
+Governments should also play a role by
+their AI systems.
+facilitating public–private partnerships and
+supporting research into advanced
+security measures. By fostering a
+collaborative approach to data security, the broader community can collectively address
+the challenges posed by AI systems and create a more secure digital ecosystem.
+
+Emerging AI Regulations and Laws
+As AI technologies rapidly evolve, governments and regulatory bodies worldwide are
+beginning to establish laws and regulations to manage their impact. These emerging
+regulations address many concerns, including data privacy, ethical AI usage, accountability,
+and transparency. The European Union (EU) has proposed the EU Artificial Intelligence Act,
+which seeks to classify AI systems based on risk levels and impose corresponding
+regulatory requirements. 9 Similarly, the United States is considering various legislative
+measures to ensure AI systems are developed and used responsibly. These regulations are
+designed to protect consumers, ensure fair competition, and prevent harm caused by AI
+applications.
+
+Organizations should
+continuously monitor
+regulatory developments
+and adapt compliance
+strategies to meet
+changing requirements.
+
+One of the primary challenges
+organizations face in keeping up with AI
+regulations is the rapid pace of
+technological advancement. AI systems
+evolve quickly, often outpacing the
+regulatory frameworks designed to govern
+them. This can lead to a compliance gap
+where existing regulations do not
+adequately address new capabilities or
+potential risks of emerging AI technologies.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+41
+
+Organizations should continuously monitor regulatory developments and adapt compliance
+strategies to meet changing requirements. This demands significant resources, including
+legal expertise, compliance infrastructure, and ongoing employee training. Additionally, the
+global nature of AI means that organizations operating across multiple jurisdictions must
+navigate a complex web of regional regulations, each with its own standards and
+enforcement mechanisms.
+Table 2 captures a snapshot of AI regulations and guidelines from various countries
+and regions.
+Table 2. Existing AI Regulations and Guidelines
+
+Regulation
+
+Issuing
+Body
+
+Year
+Issued
+
+Summary
+
+AI National
+Strategy
+
+China
+
+2017
+
+A roadmap for AI development aiming to make
+China a global leader in AI by 2030, with a focus on
+ethics, safety, and the use of AI in various
+industries.
+
+GDPR (General
+Data Protection
+Regulation)
+
+European Union
+
+2018
+
+Comprehensive data protection law that includes
+provisions affecting AI, particularly concerning data
+privacy, consent, and the right to explanation.
+
+AI Ethics
+Guidelines
+
+European
+Commission
+
+2019
+
+Nonbinding guidelines promoting trustworthy AI
+and emphasizing human-centric AI, accountability,
+transparency, privacy, and robustness.
+
+Executive Order
+on AI
+
+United States
+
+2019
+
+Promotes AI development in line with American
+values, emphasizing research, development, and
+ethical considerations, but not a binding regulation.
+
+Ethics Guidelines
+for Trustworthy AI
+
+Japan
+
+2019
+
+Provides ethical guidelines for AI development,
+focusing on respect for human dignity, privacy, and
+transparency, promoting AI that is beneficial to
+society.
+
+AI Development
+Plan
+
+South Korea
+
+2019
+
+Strategy to advance AI technology, emphasizing
+ethical considerations, transparency, and the use
+of AI for public good.
+
+AI and Privacy
+Policy Framework
+
+Canada
+
+2020
+
+Sets principles for AI use, including accountability,
+transparency, and respect for human rights and
+privacy, as part of a broader digital charter.
+
+AI and Data Ethics
+Framework
+
+Australia
+
+2020
+
+Provides principles for ethical AI development,
+including transparency, accountability, privacy
+protection, and human-centric values.
+
+Artificial
+Intelligence Act
+
+European Union
+
+2021
+
+Aims to regulate AI systems based on risk levels,
+with strict requirements for high-risk AI systems
+and prohibitions on certain harmful AI practices.
+
+AI Regulation
+Proposal
+
+European Union
+
+2021
+
+Proposed regulation for high-risk AI applications,
+including strict requirements for data quality,
+transparency, human oversight, and robustness.
+
+NIST AI Risk
+Management
+Framework
+
+National Institute
+of Standards and
+Technology
+
+2023
+
+Provides guidelines for identifying, assessing, and
+managing risks associated with AI systems, with an
+emphasis on trustworthiness and accountability.
+
+AI and Algorithm
+Transparency Law
+
+United Kingdom
+
+2023
+
+Mandates transparency in the use of AI and
+algorithms in decision-making processes, ensuring
+fairness and accountability.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+42
+
+Governments and regulating bodies face the challenge of keeping up with the fast-paced
+evolution of AI technologies. Traditional regulatory processes are often slow and
+deliberative, designed to provide thorough oversight and public consultation. However, this
+approach can be too slow to address AI’s rapid advancements and new risks effectively.
+There is a growing recognition of the need for more agile and adaptive regulatory
+frameworks that can evolve with AI technologies. This strategy might involve creating
+regulatory sandboxes where new AI applications can be tested under supervised
+conditions, fostering collaboration among regulators and industry stakeholders, and
+utilizing AI to enhance regulatory monitoring and enforcement.
+Striking a balance between fostering
+innovation and ensuring robust regulation
+is a key challenge in AI. Overly stringent
+regulations can stifle innovation, making it
+Striking a balance between
+difficult for companies to develop and
+fostering innovation and
+deploy new AI technologies. Conversely,
+ensuring robust regulation is a
+insufficient regulation can lead to misuse,
+ethical violations, and public harm.
+key challenge in AI.
+Policymakers should work closely with
+industry experts, researchers, and civil
+society to craft regulations that protect
+public interests without hindering technological progress. Public consultation processes
+and multistakeholder dialogues are crucial in developing balanced regulatory frameworks
+encouraging responsible innovation.
+Given the global nature of AI, international coordination and harmonization of regulations
+are essential. Disparate regulatory approaches across countries can create barriers to
+innovation and complicate compliance for multinational organizations. Efforts are underway
+to develop international standards for AI, led by organizations such as the International
+Organization for Standardization (ISO) and the Institute of Electrical and Electronics
+Engineers (IEEE). Harmonizing AI regulations can help create a level playing field, promote
+best practices, and facilitate cross-border collaboration. However, achieving international
+consensus is challenging due to differing national priorities, legal traditions, and levels of
+technological advancement.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+43
+
+AI Resources
+Table 3 lists some of the currently available organizational and project management tools
+with an AI component. From writing assistants to cost management, there is a tool that can
+meet your organization’s needs.
+Table 3. Common AI Organizational Tools Currently Available
+Product
+
+Writing
+Assistance
+
+Task
+Management
+
+Asana
+
+✓
+
+✓
+
+ClickUp
+
+✓
+
+✓
+
+Coda
+
+✓
+
+✓
+
+Forecast
+
+✓
+
+Grammarly
+
+✓
+
+HubSpot
+
+✓
+
+✓
+
+Kantata
+
+✓
+✓
+
+Monday
+
+✓
+
+Notion
+
+✓
+
+ProofHub
+Sembly
+
+Cost
+Management
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+Scoro
+
+✓
+
+Taskade
+
+✓
+
+Teamwork
+
+✓
+
+Wrike
+
+✓
+
+Writer
+
+✓
+
+Zapier
+
+Resource
+Planning
+
+✓
+
+Jira
+
+Microsoft Project
+
+Forecasting
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+44
+
+PMI Infinity™
+PMI Infinity™ is the PMI GenAI platform, packed with features that will help teams and
+organizations achieve more. It is designed with features to help make project teams more
+productive and efficient, such as:
+•
+
+Smart navigation to the most relevant, proven, and up-to-date project management
+practices, with an expanding content database that has been vetted by the PMI global
+community;
+
+•
+
+Cited original content for fast and easy validation;
+
+•
+
+Recommended queries and a prompt library to explore prompts searched and tested by
+the PMI community;
+
+•
+
+Contextual understanding that differentiates between “learning” and “task” mode to
+obtain more detailed responses focused on helping you get things done or diving
+deeper into a topic; and
+
+•
+
+Built-in measures to protect organizational data. The AI chatbot exclusively learns from
+PMI proprietary content, providing the cybersecurity you want.
+
+PMI Resources
+PMI has a selection of resources to assist project professionals in mastering AI for their
+roles as well as a strategic tool for their organizations, such as:
+•
+
+AI @ Work: New Projects, New Thinking
+
+•
+
+AI Innovators: Cracking the Code on Project Performance
+
+•
+
+Generative AI and Prompt Engineering
+
+•
+
+Prompt Engineering Exchange
+
+Visit the Artificial Intelligence in Project Management page of the PMI website to review all
+our AI training and reports.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+45
+
+Taking the Next Steps With AI
+The most effective way to leverage AI technologies is to gain hands-on experience. AI,
+particularly GenAI, offers a user-friendly entry point with its low learning curve, making it
+accessible even for those with minimal technical background.
+Start by identifying small, manageable projects where AI can add value such as
+automating routine tasks, enhancing data analysis, or generating creative content. By
+starting small, your team can experiment with AI tools, understand their capabilities, and
+build confidence in using them. This initial exploration will provide valuable insights and lay
+the groundwork for more ambitious AI initiatives.
+One of the most significant advantages of
+GenAI is its encouragement of
+Once your team has gained
+experimentation. As a project professional,
+foster a culture where your team feels
+initial experience and
+comfortable experimenting with AI
+confidence with AI, the next
+applications, regardless of their experience
+step is to scale its integration
+level. Encourage team members to explore
+across more complex and
+different AI tools and techniques, test
+various scenarios, and learn from
+critical projects.
+successes and failures. This iterative
+process enhances the team’s
+understanding of AI and uncovers unique
+ways AI can be integrated into projects. By rewarding experimentation, you can cultivate an
+innovative mindset that continually seeks improvements and new opportunities, driving
+project success and team growth.
+Once your team has gained initial experience and confidence with AI, the next step is to
+scale its integration across more complex and critical projects. Leverage the insights and
+skills developed during the experimentation phase to identify larger-scale applications of
+AI that can significantly impact project outcomes. This could involve advanced data
+analytics for strategic decision-making, automating complex workflows, or developing
+AI-driven solutions tailored to your project’s unique challenges. As you scale AI integration,
+ensure that continuous learning and adaptation remain core principles. By doing so, your
+team will keep pace with AI advancements and maintain a competitive edge, delivering
+innovative and efficient project solutions.
+
+Further AI Guidance
+Our companion guide will provide further guidance on organizational adoption of AI and
+how AI impacts project management processes, approaches, and methodologies.
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+46
+
+References
+1. Moore, G. E. (1965, April 19). Cramming
+more components onto integrated circuits.
+Electronics, 38(8), 114–117.
+
+6. OpenAI. (n.d.). Prompt engineering. OpenAI
+Platform. https://platform.openai.com/
+docs/guides/prompt-engineering
+
+2. McCarthy, J., Minsky, M. L., Rochester, N.,
+& Shannon, C. E. (1955, August 31). A
+proposal for the Dartmouth summer
+research project on artificial
+intelligence. https://www-formal.
+stanford.edu/jmc/history/dartmouth/
+dartmouth.html
+
+7. Project Management Institute (PMI).
+(2020). Talking to the machine: The impact
+of AI and machine learning on project
+management. PMI. https://www.pmi.org/
+learning/thought-leadership/promptengineering
+
+3. Cognilytica. (n.d.). The seven patterns of
+AI. Cognilytica. https://www.cognilytica.
+com/the-seven-patterns-of-ai
+
+4. Jumper, J., Evans, R., Pritzel, A., Green,
+T., Figurnov, M., Ronneberger, O.,
+Tunyasuvunakool, K., Bates, R., Žídek, A.,
+Potapenko, A., Bridgland, A., Meyer, C.,
+Kohl, S. A. A., Ballard, A. J., Cowie, A.,
+Romera-Paredes, B., Nikolov, S., Jain, R.,
+Adler, J., Back, T., ...Hassabis, D. (2021).
+Highly accurate protein structure
+prediction with AlphaFold. Nature,
+596(7873), 583–589. https://doi.org/10.1038/
+s41586-021-03819-2
+
+8. PricewaterhouseCoopers (PwC). (2013,
+April). Correcting the course of capital
+projects: Plan ahead to avoid time and
+cost overruns down the road [PDF]. PwC.
+https:// www.pwc.com/gx/en/capitalprojects-infrastructure/pdf/pwccorrecting-the-course-of-capital-projectsv3-pdf.pdf
+
+9. European Commission. (2021). Proposal for
+a regulation laying down harmonised rules
+on artificial intelligence (Artificial
+Intelligence Act) and amending certain
+Union legislative acts. EUR-Lex. https://
+eur-lex.europa.eu/legal-content/EN/
+TXT/?uri=CELEX%3A52021PC0206
+
+5. Project Management Institute (PMI).
+(2020). Talking to the machine: The impact
+of AI and machine learning on project
+management. PMI. https://www.pmi.org/
+learning/thought-leadership/promptengineering
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+47
+
+Contributors and Reviewers
+
+Project Management Institute extends sincere appreciation to those who made this
+guide possible.
+
+Contributors and Reviewers
+Claudia Alcelay, MBA, PMI-ACP, PMP
+Kristian Bainey, MS, PMP
+Joti Balani, BSc, MBA, Comp Sci
+Edivandro Carlos Conforto, PhD
+Ronald Dyer, DBA, CQRM
+Dave Garrett
+Mustafa Hafizoglu, PhD
+Vered Holzmann, MBA, PhD, PMP
+Anand Lokhande, PhD, PMI-RMP, PMP
+Michael McCullough, MBA, CLSSBB
+Masha Nehme, PMP
+Sarah Philbrick, BFA, MEd
+Lenka Pincot, PMI-ACP, PMI-PBA, PMP
+Karthick Nivas Ramdoss, MBA, PMP
+Nathan Rischling, MS, PMP
+Alcides Santopietro, DAC, PMI-ACP, PMP
+Ronald Schmelzer, MBA, CPMAI+E
+Kathleen Walch, CPMAI+E
+
+PMI Publications Team
+Andrew Austin, PhD, CPhys, MIEEE
+Kristin Dietz, MSML, CAE, CSPO
+Julie Hardison, MBA, PMP
+Kelly Heuer, PhD, CAPM
+Christie McDevitt, APR
+Kim Shinners
+Steve Suranie
+
+AI Essentials for Project Professionals
+©2024 Project Management Institute, Inc. All rights reserved.
+
+48
+
+SKU: EL172
+
+
