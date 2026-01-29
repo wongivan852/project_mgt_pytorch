@@ -1,0 +1,369 @@
+Integrated change management
+CONFERENCE PAPER ǀ Change Management ǀ 29 October 2013
+Wanner, Markus F.
+How to cite this article:
+Wanner, M. F. (2013). Integrated change management. Paper presented at PMI® Global
+Congress 2013—North America, New Orleans, LA. Newtown Square, PA: Project
+Management Institute.
+Watch the Climate Change and the Evolution of the
+Project Management Profession Webinar
+This webinar reports and discusses the findings of PMI-funded research to address the
+question of how project, program, and portfolio management can be utilized and extended to
+deal with the climate crisis and other societal challenges.
+Watch the Webinar﻿
+Abstract
+Change management is an organized, systematic application of the knowledge, tools, and
+resources of change that provides organizations with a key process to achieve their
+business strategy.
+The purpose of “integrated change management” is to achieve the desired target state by
+integration of the organizational and individual change processes on the one hand and by
+the integration of project and change management on the other hand.
+The paper is based on the models of John P. Kotter, the Change Management Learning
+Center – Prosci, the change experience of Tiba, and the PMI's 2012 Pulse of the
+Profession In-Depth Report: Organizational Agility” (PMI, 2012).
+The conclusion is that changes are manageable by applying “integrated change
+management,” strategic initiatives are more successful and benefits will be achieved by
+increased organizational agility.
+Introduction
+Low economic growth, changing global market conditions, innovation, and cost pressure lead
+to a complex and dynamic company environment. To be competitive companies must live and
+manage the constant change.
+There are permanent changes within a company: implementation of new strategies,
+organizations, systems, culture, and processes. In all of these endeavors change management
+is crucial for success and acceptance of the results. Unfortunately change projects fail often!
+Why?
+What are the success factors of change management? What is necessary to realize and
+sustain the change? Are the companies and the people ready and competent to run changes
+successfully and to realize the important requirement regarding “organizational agility”?
+Change Management – Definitions and Models
+Change Management is an organized, systematic application of the knowledge, tools, and
+resources of change that provides organizations with a key process to achieve their business
+strategy.
+Change management is a systematic approach to dealing with change, both from the
+perspective of an organization and on the individual level. A somewhat ambiguous term,
+change management has at least three different aspects, including, adapting to change,
+controlling change, and effecting change. A proactive approach to dealing with change is at the
+core of all three aspects.
+John Kotter's Eight Step Approach to Change
+
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+1/10
+
+John Kotter (1996) created a very popular change management approach. The desired
+change is conducted in eight steps. Exhibit 1 shows these eight steps in detail and how they
+are linked with the four phases of the “integrated change management” approach (Wanner,
+2012).
+Exhibit 1 – Kotter´s Change Management Model
+Kübler-Ross Model
+On an individual level, we see different stages that a person experiences when going through
+change. A common model that describes these stages has been developed by Elisabeth
+Kübler-Ross (1969).
+This model (Exhibit 2) has been widely adapted to many situations where someone suffers a
+loss or change in social identity. When applying the model to a business context an
+organizational change curve can be used to describe the stages.
+Exhibit 2 – Kübler-Ross Model
+Change Management – As-is and Target State
+The most of the companies are far away from their target state regarding successful changes.
+A strategy and benefit-oriented change management is not established.
+One reason is the wrong assumption that change management is a “soft issue” only. Change
+management is not in the focus of the top management with dramatic consequences
+particularly for strategic initiatives. The role of the top management is crucial within a
+transformation process. A sponsor should lead by clear vision and targets. Active and visible
+sponsorship is needed in the difficult phases of a change (“valley of tears”).
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+2/10
+
+Exhibit 3 – Change Management: As Is Situation and Target State
+Overview: Integrated Change Management
+Integrated Organizational and Individual Change Process
+Change projects take place on an organizational and on an individual level. Both levels are
+considered within the model of “integrated change management.”
+The two processes “organizational change process” (projects) and “individual change process”
+(people) are to be integrated to achieve the desired business results.
+Exhibit 4 – Integrated Organizational and Individual Change Process
+Integration of Project and Change Management
+The scope is always in the focus of a project particularly if a change project should be
+executed. But the supporting processes “project management” and “change management” are
+crucial to be successful. Integrated professional project and change management will enable a
+project manager as “temporary leader” to manage a change project and to achieve the
+expected results.
+Project management, the scope (functional content of the change), and change management
+are to be integrated.
+The change management of the single project must start before project start in the period of
+project initiation and continue after project closure. Reinforcement and measurement will take
+place in the application phase.
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+3/10
+
+Exhibit 5 – Integration of Project and Change Management
+Four phases of Integrated Change Management
+A structured change management approach with four phases (Prosci, 2012) (with their 3-
+phases-model) linked with the Project Management Institute process groups (PMI, 2013) are
+necessary to manage a change successfully.
+Exhibit 6 – Structured Change Management Process
+Phase 1 – Prepare for the change
+The first phase – the preparation for change – focuses on the following topics:
+Clarify objectives for the change in “people” terms and ensure a “compelling case for the
+change.”
+Assess stakeholders (i.e., those impacted by the change) for their readiness and support.
+Obtain necessary resources and organize to manage the change.
+Align executive sponsors to build a network (coalition) of sponsors.
+Conduct an analysis to define the specific impact of the change on each stakeholder.
+Clarify vision and objectives
+The beginning of every successful change is a “compelling change story.” This convincing
+“shackling story” creates the desire for a future situation. Without this motivation it is hard to
+transform a system from state “A” (today) to state Z, which means the target situation.
+Assess stakeholders
+Stakeholders are any individual or groups of individuals who are impacted by the change or
+are critical to the successful implementation of the change. This could be inside or outside of
+the organization. To get a better understanding who to focus on you can conduct a stakeholder
+assessment and define actions needed to improve the level of support for the most critical
+stakeholder groups.
+An effective stakeholder management process is composed of four steps, which should be
+started by the project manager during project initiation and should be updated regularly
+throughout project execution.
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+4/10
+
+Exhibit 7 – Assess Stakeholders
+Change impact analysis
+The impact analysis reflects the coherences between future events and the impact of the
+change concerning the different stakeholder groups. It should be worked out how the
+stakeholders can be prepared to the changes.
+For each single stakeholder group the effects of a change and the readiness to change should
+be analyzed. To conduct a detailed analysis on the specific impact of the change on each
+stakeholder the following questions along the A-Z-model should be answered.
+What will change in the world of each stakeholder group?
+What do the people need to do differently in “Z”?
+What do the people need to be able to change?
+How do we prepare them for the desired change?
+Answering the last question will lead to a detailed change management plan.
+Exhibit 8 – A-Z Model to Obtain a Change Management Plan
+Align executive sponsors
+The greatest success factor for managing the people side of change is active and visible
+executive sponsorship throughout the project. The “Executive Sponsor” is a supporter of the
+change out of the top management. This person explains the necessity of change and shows
+the risks which can appear without the change.
+It is important to focus on key required activities for the executive sponsor:
+Participate actively and visibly throughout the project.
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+5/10
+
+Clarify the vision for the change and be able to communicate the compelling case for
+change in clear understandable terms.
+Build a coalition of sponsorship with peers and managers.
+Communicate directly with managers and employees (and listen to them).
+Ensure adequate resources to achieve and sustain the change.
+Manages any resistance at senior levels.
+Besides executive sponsors, there is a team of individuals with a vested interest in having the
+largest impact of the change – the coalition.
+What is meant by sponsorship coalition?
+Identified key leaders who will help drive the change
+Champions / visible supporters of the change
+Often follows the organizational lines of management
+Exhibit 9 – Sponsor Coalition Map
+Phase 2 – Plan the change
+In the second phase, main emphasis is on the development of formal plans (change
+management plan) and the integration of those into the overall project management plan. The
+defined strategy of the initiation phase must be verified and detailed.
+Executive sponsor activities
+Communications and training
+Resistance management
+Events and Interventions
+Plan Communications
+The main subject of the communication plan is the description of the importance of change
+and the risks in case of no change. The messages should be distributed by different medias
+/channels and 5-7 times repeated.
+When planning the communication concept a project manager should take into account that
+He needs to answer the WIIFM question (What is in it for me?).
+He needs to adapt to your different audiences (stakeholder groups).
+He needs to refer to your change impact analysis (How will you prepare each stakeholder
+group).
+He needs to identify the key messages.
+He should consider the timing as to when it will be best to communicate what.
+He should consider the need for communicating the message (5 – 7 times).
+He should consider using multiple channels / media for your communication.
+He should consider who is the most appropriate “sender.”
+Phase 3 – Manage the change
+In the third phase main emphasis is on the management of implementation of the change
+based on the defined change management plan.
+Execute Change Management Plan
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+6/10
+
+Realize actions
+Perform change controlling
+Manage resistance
+Manage resistance
+Resistance is natural. Therefore always keep in mind:
+Resistance does not reflect that an employee is problematic
+Expect resistance
+Good change management practices not only reduce resistance, but can turn some of the
+most resistant employees into some of the biggest supporters.
+Main reasons for resistance at employee level can be seen in the lack of awareness,
+perceived negative impact on their current job role, the history of organization's change
+failures, the lack of visible support and sponsorship. On the management level the main
+resistance issues are lack of awareness and involvement in the change, perceived negative
+impact on current job role (e.g., fear of losing control and authority), and workload.
+In order to react on that a project manager of a change project needs to take proactive steps
+such as:
+Provide clear, honest and open two way communications (and listen).
+Manage expectations and clarify the personal impact (what specifically will change and
+what is expected).
+Involve end users (those directly impacted) early and throughout the project.
+Engage Managers and supervisors early and establish their role as coaches and change
+agents.
+Phase 4 – Reinforce and sustain the change
+To ensure a sustainable change, the last phase of the structured change management process
+deals with the task of reinforcement.
+Collect feedback to measure results and the adoption of the desired change.
+Take corrective action to close any gaps.
+Embed the change into systems, processes and policies, and deliver consequences to
+sustain the change.
+To be able to measure the desired change you need to establish metrics to track desired
+changes /results (or noncompliance). Thereby the desired final status Z should always be used
+as the main reference point.
+An appropriate integration of desired change into existing systems (such as HR systems,
+policies, or scorecard metrics) could support and reduce complexity by not inventing a new
+separate approach.
+Conclusion: Need for Integrated Change Management and
+Organizational Agility
+A change has high impact to a company. It could be managed successfully by applying
+“integrated change management.” The most important success factor is the involvement of an
+active sponsor.
+A project manager of a change project should integrate the organizational and the people side
+of a change. He should integrate professional change management processes methods, tools
+and techniques to his professional project management: 1. Initiate, 2. Plan, 3. Manage, 4.
+Reinforce & Sustain a change.
+The PMI 2012 Pulse of the Profession In-Depth Report: Organizational Agility (PMI, 2012)
+proofs: greater organizational agility leads to better performance—providing organizations with
+a powerful edge on the competition.
+The probability to run successful strategic initiatives is in agile organizations two times higher
+as in companies with low agility.
+Hiatt, J. M. (2006). ADKAR: A model for change in business, government and our community.
+Loveland, CO: Prosci.
+Kotter, J. P., & Rathgeber, H. (2005). Our Iceberg is melting: Changing and succeeding under
+any conditions. New York, NY: St. Martin's Press.
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+7/10
+
+Quick Links
+Report PDUs ﻿
+Online Courses
+Kotter, J. P. (1996). Leading change. Boston , MA: Harvard Business School Press.
+Kübler-Ross, E. (1969). On death and dying. New York, NY: Touchstone.
+Project Management Institute. (2012). PMI's 2012 pulse of the profession in-depth report:
+Organizational agility. Newtown Square, PA: Project Management Institute.
+Project Management Institute. (2013). A guide to the project management body of knowledge
+(PMBOK  Guide) (5th ed.). Newtown Square, PA: Project Management Institute.
+Prosci – Change Management Learning Center. (2012). 2012 edition of best practices in
+change management. Loveland, CO: Prosci.
+Robbins, S. P. (2003). Organizational behavior (10th ed.). Upper Saddle River, NJ: Pearson
+Education.
+Schein, E. H. (2004). Organizational culture and leadership (3rd ed.). San Francisco, CA:
+Jossey-Bass Publishers.
+Wanner, M. F. (2012, July). Change management – Manage changes, achieve and reinforce
+organizational agility. Munich, Germany: Tiba Managementberatung
+This material has been reproduced with the permission of the copyright owner. Unauthorized
+reproduction of this material is strictly prohibited. For permission to reproduce this material,
+please contact PMI or any listed author.
+©2013 Markus F. Wanner
+Originally published as a part of 2013 PMI Global Congress Proceedings – New Orleans,
+Louisiana
+®
+ADVERTISEMENT
+ADVERTISEMENT
+ADVERTISEMENT
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+8/10
+
+PMBOK® Guide
+Webinars ﻿
+Events
+Store
+Certifications
+Project Management Professional
+(PMP)®
+Certified Associate in Project
+Management (CAPM)®
+PMI Agile Certified Practitioner (PMI-
+ACP)®
+Compare Certifications
+Membership
+Become a Member
+Local Chapters
+Membership FAQs
+Community
+Latest from the Community ﻿
+Discussions ﻿
+Templates ﻿
+Blogs ﻿
+Volunteering
+Partner with PMI
+Enterprise and Commercial Partners
+Training Partners
+Organization
+Our Mission & Vision
+Our Purpose
+Our Leadership
+The PMI Blog
+What is Project Management?
+What is a Project Manager?
+Press & Media
+Careers
+Support
+Contact Us
+Store Help
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQmh…
+9/10
+
+Stay Connected
+© 2025 Project Management Institute, Inc.
+Accessibility
+Privacy
+Sitemap
+Terms of use
+Purchasing Terms
+Advertising & Sponsorship
+
+Feedback
+15/10/2025, 08:53
+Integrated Change Management | PMI
+https://www.pmi.org/learning/library/integrated-change-management-5954?_gl=1*1jeiqh0*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S0NBandfLTNHQm…
+10/10

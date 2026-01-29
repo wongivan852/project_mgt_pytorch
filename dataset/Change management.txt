@@ -1,0 +1,425 @@
+Change management
+understanding the human dynamics of change
+CONFERENCE PAPER ǀ Change Management ǀ 22 October 2011
+Nelson, Kate
+How to cite this article:
+Nelson, K. (2011). Change management: understanding the human dynamics of change.
+Paper presented at PMI® Global Congress 2011—North America, Dallas, TX. Newtown
+Square, PA: Project Management Institute.
+Abstract
+Studies have shown that organizational change is hard, and the human dynamics of change
+are often the primary hurdles. Organizations that effectively manage organizational change
+focus on both project management as well as change management. This paper provides an
+overview of the challenge of change as well as information about how project managers can
+employ change management to effectively bring about change within an organization.
+Specifically, this paper covers the challenge of organizational change, characteristics of
+successful changes, the difference between project management and change management,
+principles that guide changes within organizations, a process for managing change, and tools
+for managing change. Organizations that employ effective project management as well as
+change management can successfully drive change and win.
+The Challenge of Change
+The one constant is change. As organizations and their people are pressed to work faster,
+smarter and leaner, change is here to stay. It can sometimes feel like the floor is constantly
+shifting. Change can make employees feel like victims, like the change is happening “to” them.
+Change can be equally taxing on organizations. Michael Beer estimated that half of all change
+efforts fail (Beer & Norhia, 2000, p.18). And even more changes fail to reap the benefits they
+originally promised.
+In 2008, 80% of leaders around the world (CEOs, managers, senior leaders in the public
+sector) expected substantial change in their organizations over the next three years (IBM,
+2008). Looking back, it may not seem like a surprise as you sit at your desk and think about
+the challenges facing your own organization. Even today, most would agree that change is a
+common denominator among organizations worldwide.
+Sadly, CEOs also report in IBM’s same study that failed initiatives are on the rise—60% more
+change initiatives were reported to have had limited, or no, success, than those in the 2006
+survey. Those same CEOs noted that that their ability to manage the changes they expected
+was 22% less than their need for it. That “change gap” was three times higher than it was
+reported to be just two years earlier.
+While some are cringing and thinking, “Yikes! How the heck are we going to pull it off?” the
+more enlightened are thinking, “Opportunity! If we can manage change effectively while our
+competitors are caught up in their shorts about it, we can catapult ourselves ahead.”
+Change doesn’t have to mean failure. Many companies have done it successfully.
+The approach to successfully guiding organizations and people through change is called
+Change Management. When organizations take a thoughtful, organized approach to managing
+through change, employees feel part of the process and organizations are more likely to meet
+their objectives. Companies successful at guiding change have aligned and visibly supportive
+leadership. In addition, they have employees who are ready, willing and able to manage and
+make the change.
+Ready, Willing, and Able
+Organizations that successfully change themselves address more than process improvements,
+technology innovations and market forces. They address people issues as well. Companies
+good at change understand that goals are met through people. Trying to improve quality?
+Increase customer satisfaction? Lower costs? Improve processes? Innovate? It’s the
+employees who impact quality of products and services, interact with customers, use
+
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+1/8
+
+resources and create new ideas. A plan is just a piece of paper if no one is willing to follow it
+and a goal is just a number if no one cares about achieving it.
+Companies successful at change have employees who are ready, willing and able for the
+change. Successful organizations recognize that resistance is a natural, expected part of any
+change and they work to address that resistance. It’s human nature to resist change. Some of
+us are open to new ideas. Some of us take a little longer. There are many reasons employees
+resist change: fear of the unknown, loss of control, work overload, miscommunication. Some
+reasons for resistance are legitimate. Companies good at addressing resistance first take time
+to listen and understand it. They share information and get feedback. They’re willing to make
+adjustments based on that feedback. Understanding and addressing the issues early prevents
+setbacks later.
+So how do successful companies create ready, willing and able employees? Employees are
+ready because of communication and involvement. Employees are ready when they
+understand why the status quo won’t do. They understand why the change is necessary for the
+survival of the company. They understand it’s a priority. Benchmarking and sharing data and
+company goals can help make the case for change. For example, what are your quality
+numbers compared to the competition’s numbers? Are you losing market share based on poor
+quality? Why do the employees have to care? Companies good at change also create
+temporary work groups and empower employees to make some of the decisions that will affect
+them.
+Employees are willing when they are motivated to work in new ways. They’re willing when their
+job has been redesigned and they see how it fits into the new plan. They’re willing when they
+are recognized and rewarded for adopting the new ways of working, not the old ways, and
+when they are evaluated based on the new business goals and measures. For example, is
+everyone evaluated on quality? Are employees recognized for making quality improvements?
+Are there team rewards to encourage groups to work together toward quality improvement?
+Employees are able when they have been educated and trained to support the new way of
+working. For example, do they know how to measure and track quality? Do they have the tools
+and skills to work as a team to address quality issues? Employees are able when the
+organization structure supports the business goals, whether it’s working in teams or cross
+functional task forces.
+Managing the Change as well as the Project
+Recognizing that the odds are not great with change, some organizations funnel a tremendous
+amount of time and effort into project management. Unfortunately, that is often not enough.
+Recently, a multi-billion dollar company’s implementation of a system-wide technology system
+could only be described as troubled. The project had been underway for five years—a long
+time even for the largest implementations. Poor leadership, lack of coordination across
+multiple locations, misaligned objectives, scarce resources, and other problems plagued the
+program.
+The most recent attempt to get the system up and running was announced with a new and
+improved focus on project management. A team of project managers were put in place; they
+held several conference calls a week across locations to track progress; they monitored
+spending on the program; and they ensured there was a process in place to escalate issues.
+With all of the well-intentioned effort expended and money spent, results were still elusive. The
+implementation of the system was moved out even another three years. All the while, team
+members were taken off of their line jobs, the organization was defocused, and money was
+leaking out of the organization like a bad faucet.
+It was not as if the team members were trying to fail. On the contrary, they were trying hard to
+succeed—they reacted quickly to every request to gather data, review documents, and attend
+meetings. But the cards were stacked against them. The project had effective project
+managers, but because the project lacked effective change management, the organization
+was spinning its wheels.
+Oftentimes, organizations launch change initiatives thinking that having effective project
+management will ensure a good outcome. Unfortunately, project management and change
+management are not the same thing. They are, however, highly inter-related, and each
+depends on the other’s success. While project management seeks to ensure that that the
+team, budget and timelines are managed effectively, change management seeks to get the
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+2/8
+
+people in the organization (as well as stakeholders outside of the organization) ready, willing,
+and able to work in new ways.
+A systematic process to manage change should be connected to project management efforts.
+A specific focus should be placed on helping the people in the organization change. When 575
+organizations were asked what they would do differently on their next change effort, one of the
+most commonly cited responses was “improve change management planning and more
+effective application of change management tasks” (Prosci, 2009).
+Effective change management engages leaders at the right level; ensures that people in the
+organization understand and care about how the change will impact their work; and ensures
+that people have the skills to do the new work.
+While the focus of the project management team is generally on project planning, issue
+tracking, budget monitoring, and issue resolution, the focus of the change management team
+is on behaviors, resistance, stakeholder commitment, leadership behaviors, communication,
+and infrastructure supports and reinforcements.
+Successful changes are managed carefully and thoughtfully by project managers with
+coordinated processes. Project managers use tools to get that work done, such as work plans,
+scope documents, and risk assessments.
+Similarly, successful organizational change that people are ready, willing and able to adopt
+takes thought and coordination. A well-managed change that no one understands, cares
+about, or knows how to do will not make an impact in the organization. Change managers use
+tools that are critical to successfully changing organizations—tools such as stakeholder
+analyses, communication plans, and workforce transition plans make changes happen for the
+individual. And change in an organization happens when individuals change.
+The Eight Constants of Change
+Before diving into tools and tactics, it is helpful to back up just a bit. If organizations want to
+change effectively, they need to recognize and deal with the basic and undeniable truths about
+change (Aaron & Nelson, 2008). These are things that can’t be avoided or changed—ironic,
+yes—but that can be mitigated, leveraged, and worked with to help organizations change with
+more ease and less churn.
+The first truth is that organizations change when the people within them change. When it
+comes to organizational change, it truly does take a village. Organizations are, in essence,
+groups of people. If an organization is going to change, a critical mass of the people within that
+organization need to go through their own individual change process.
+Second, resistance is inevitable. You probably heard it first in high school physics, but Newton
+said it best when he said “an object at rest tends to stay at rest.” There are personal,
+structural, and physiological reasons for people to resist change. Organizations that expect
+and deal with resistance proactively will be able to experience the most effective changes.
+Third, commitment to the past hinders change in the future. Like a tree’s roots, our hold on the
+way we do things grows deeper and deeper over time. The success or failure of changes in
+the past, the employees’ perception of the current state, and the culture of the organization all
+help determine how deep the roots of an organization go, and how hard it will be to change.
+Fourth, connecting to the head and the heart builds commitment. People are not purely rational.
+They need to have a rational recognition of the need to change, as well as a deeper emotional
+connection to believe in what the change is all about. Winning the hearts of the people who will
+experience the change will make all the difference.
+Fifth, a leader’s actions speak louder than words. What leaders do and say have more
+influence over the success or failure of a change than anything else. People are watching
+leaders constantly (not just in scripted moments) for cues about changes. If the leader is the
+celebrity, the followers are the paparazzi—and leaders should always be aware of the
+paparazzi.
+Sixth, effective communication demands quality and quantity. Effective communication is critical
+during any change effort. Honesty, organization, consistency, and responsiveness will all help
+ensure that communications are supporting the change. You can say that again (…and
+again…and again).
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+3/8
+
+Seventh, people support what they help create. The movie Field of Dreams was close, but not
+exactly right. It is not “if YOU build it, they will come.” But rather, if THEY build it, they will
+come. People inherently connect with something they help build. Engaging people in the
+change effort early on will pay out big dividends in the long run.
+And lastly, sustaining change takes support and reinforcement. After an organization changes,
+you are not in Kansas anymore. Organizations that make change stick make sure that they are
+hiring, training, developing, measuring, rewarding and communicating with people in ways that
+are consistent with the new paradigm rather than the old practices.
+A Process for Managing Change
+So how do organizations and the people who work in them actually manage change? A simple
+model known as The Change Management 101
+ Model (Exhibit 1) outlines activities to
+manage business change: “Plan, Do, Sustain” (Nelson & Aaron, 2005, p. 7). Each phase
+includes two specific stages necessary to the change process. As changes move from one
+stage to the next, project leaders just need to take it step by step—gather information,
+establish milestones, and measure progress.
+Exhibit 1 – The Change Management 101
+ Model
+Plan
+The “Plan” phase involves assessing the needs of the organization and developing plans to
+help people change their behaviors. Proper planning will help you identify the workforce issues
+related to the proposed change before they impede progress.
+The first part of planning for the change is to Assess Needs. A critical element to planning is
+assessing the needs of individuals and the organization. Next, you need to Develop a Plan.
+Customized plans that address the needs of individuals and the organization must be
+developed in order to change behaviors. The data gathered from assessing needs drives the
+priorities and actions in these plans.
+Let’s use an example most of us can relate to—say, losing weight. If you were using this model
+for a personal change such as losing weight, you would first assess your needs. You would
+figure out how much weight you need to lose, assess your current health status, think about
+whether you need a personal trainer or a nutritionist, and then develop a plan. Maybe you
+decide that you will go to the gym before work every day, you will take a brown bag lunch to
+work every day, and that you will change from whole milk to skim.
+Do
+The “Do” Phase entails launching communications to let people who will be impacted know
+what you are trying to accomplish and why you are doing it and transitioning the work to new
+methods. Effective communication and transition activities will create a receptive environment
+for change and facilitate a smooth implementation.
+The first part of “doing it” requires that you Launch Communications. Project team members
+or the owners of the change need to reach out to others in the organization. Letting people
+know what’s happening in this early stage helps create an environment where change is more
+likely to stick. Next, you need to Transition Work. Part of managing change is transitioning
+work from old ways to new ways. People must be ready for the change just at the time of the
+TM
+TM
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+4/8
+
+implementation, roles and people must be shifted where necessary, and people need to have
+the right skills to do what is expected of them.
+For your diet, you would set up time with your trainer, let your family know that you are going to
+need different foods in the house, and possibly join a walking group or other support group.
+Then you would start your diet. Begin the exercise program, start working with the trainer, and
+track progress.
+Sustain
+The most often overlooked aspect of any change project is the “Sustain” Phase, during which
+your team aligns structures to support the new ways of working and integrates new ways into
+the business. If the organization fails to sustain new behaviors, business benefits will likely not
+be realized or they will be short-lived.
+Sustaining the change requires that you Align Structures. Without reinforcing new behaviors,
+people naturally revert back to old ways of working. Next, sustaining changes requires that you
+Optimize Results. In order to ensure that the changes yield optimal results over time, new
+behaviors must be integrated into the new way of working.
+For your diet, you might get involved in some long-term sports groups, become the organizer
+of a weekly walking group, or compile your cookbook of new low-fat recipes. You would reflect
+on what worked and did not work for you, and you might even buy new clothes to fit your new
+smaller size.
+Project managers can and do beat the odds and make their changes successful. Take it step-
+by-step. You can get ahead of the competition and proactively move your organization toward
+the next big thing. Just Plan it, Do it, and Sustain it.
+Tools for Managing Change
+Now that you understand the model, the next step is to understand some specific tools.
+Change can be managed by using specific tools and processes. Most organizations already
+use tools to assist in the collection and analysis of data. Organizations have tools for
+assessing customer needs, tracking finances, managing projects, measuring quality, and
+determining customer satisfaction levels. There are tools for managing change as well.
+Change management tools provide a way to collect and analyze data related to people issues
+and change. Like many tools, the information gathered from the change management tools
+can improve decision-making and planning.
+Change Readiness Audits
+The Change Readiness Audit tool is great place to start. A Change Readiness Audit helps
+evaluate the level of organizational readiness for change (Nelson & Aaron, 2005, p. 12).
+Change Readiness Audits vary in length and target audience. These audits can have as little
+as five questions or as many as 30. The audience can be a department, a management team
+or the whole company. The size and detail of the audit is determined by the scope of the
+change. A Change Readiness Audit lists a series of questions that can be delivered by written
+survey, electronic survey, one-on-one or focus groups. Here are some sample questions from
+a Change Readiness Audit:
+The goal of using a tool like this is to uncover problems early. Sometimes, a Change
+Readiness Audit identifies red flag areas that require more information. For example, if
+participants think resources are inadequate and leaders aren’t committed, these perceptions
+need to be investigated further. There may be competing initiatives. Leaders may be willing to
+commit but just haven’t been asked to actively demonstrate and communicate their
+commitment. The tool helps get potentially destructive perceptions and problems out in the
+open so that they can be addressed. Once the results of a Change Readiness Audit are
+Is there a clear vision for this change?
+1.
+Do people understand the need for this change?
+2.
+Are leaders willing to commit resources to make this change successful?
+3.
+Is there a way for leaders to demonstrate commitment to this change?
+4.
+Is there adequate participation in the change for people most affected by it?
+5.
+Are there well-trained people with time available to implement the changes?
+6.
+Is there an understanding of how to sustain the change through modifying HR
+systems (such as staffing, training, appraisal, rewards, communication)?
+7.
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+5/8
+
+analyzed, other change management tools can be used to address problem areas and
+challenges.
+Stakeholder Analysis Tools
+A change management tool that many people use is a Stakeholder Analysis tool. This type of
+tool is a place to list all the groups affected by the change and track their current and required
+levels of commitment to the change. If stakeholders aren’t committed to the change, tools and
+processes are available to build stakeholder commitment. Communication plans,
+communication networks, leadership involvement plans and stakeholder commitment meetings
+are proven tactics to improve commitment to change. Many Change Management approaches
+work together to provide a comprehensive approach to identify and address people issues
+related to change.
+Change Management Work Plans
+For any change that will require people to change the way they think or act, a Change
+Management Work Plan should be developed. The work plan should reflect actions that
+address the relevant issues identified by a Change Readiness Audit as well as other
+assessments. A Change Management Work Plan is a tool for listing change management
+activities, estimating effort required, assigning responsibility and tracking progress (Nelson &
+Aaron, 2005, p. 38). While it is often helpful to keep a separate document for change
+management activities, there should be linking milestones and activities that are common in
+both the Change Management Workplan and the master project workplan. The tracking of both
+documents should be similar and should be done in tandem.
+Conclusion
+Change in today’s business environment is difficult. Change must be managed proactively and
+people issues are some of the biggest challenges. To achieve strong business results,
+employees must be committed to success, motivated to get results and possess the tools to
+get the job done. The challenge is to apply effective change management techniques to
+anticipate and address employee and organizational issues.
+Managing change is similar to managing quality or customer satisfaction. Managing change
+requires data collection, data analysis, and specific tactics to address problem areas and
+challenges. Change management tools provide a means to collect relevant data that can be
+used to address employee resistance and organizational barriers. Combined with other project
+plans, change management tools help achieve desired business results. The next time the
+organization is changing, think about the action steps of “Plan, Do and Sustain” and add some
+of these proven change management tools to the “to-do” list. Make sure your organization is
+part of the minority that reaches their business goals.
+Aaron, S., & Nelson, K. (2008). The eight constants of change: What leaders need to know to
+drive change and win. Dallas, TX: Cornerstone Leadership.
+Beer, M., & Norhia, N. (2000). Breaking the code of change. Cambridge, MA: Harvard Business
+School.
+IBM. (2008). Global CEO study: The enterprise of the future.
+Nelson, K., & Aaron, S. (2005). The change management pocket guide: Tools for managing
+change. Cincinnati, OH: Change Guides LLC.
+Prosci. (2009). Best practices in change management.Loveland, CO: Prosci
+This material has been reproduced with the permission of the copyright owner. Unauthorized
+reproduction of this material is strictly prohibited. For permission to reproduce this material,
+please contact PMI or any listed author.
+© 2011, Kate Nelson
+Originally published as a part of 2011 PMI Global Congress Proceedings – Dallas, TX
+ADVERTISEMENT
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+6/8
+
+Quick Links
+Report PDUs ﻿
+Online Courses
+PMBOK® Guide
+Webinars ﻿
+Events
+Store
+Certifications
+Project Management Professional
+(PMP)®
+Certified Associate in Project
+Management (CAPM)®
+PMI Agile Certified Practitioner (PMI-
+ACP)®
+Compare Certifications
+Membership
+Become a Member
+Local Chapters
+Membership FAQs
+Community
+Latest from the Community ﻿
+Discussions ﻿
+ADVERTISEMENT
+ADVERTISEMENT
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+7/8
+
+Templates ﻿
+Blogs ﻿
+Volunteering
+Partner with PMI
+Enterprise and Commercial Partners
+Training Partners
+Organization
+Our Mission & Vision
+Our Purpose
+Our Leadership
+The PMI Blog
+What is Project Management?
+What is a Project Manager?
+Press & Media
+Careers
+Support
+Contact Us
+Store Help
+Stay Connected
+© 2025 Project Management Institute, Inc.
+Accessibility
+Privacy
+Sitemap
+Terms of use
+Purchasing Terms
+Advertising & Sponsorship
+
+Feedback
+15/10/2025, 08:51
+Change management
+https://www.pmi.org/learning/library/change-management-understanding-human-dynamics-6252?_gl=1*1i0d2a6*_gcl_aw*R0NMLjE3NTkyOTY3OTkuQ2p3S…
+8/8

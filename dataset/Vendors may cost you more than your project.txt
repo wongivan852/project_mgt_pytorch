@@ -1,0 +1,671 @@
+Language
+Store
+Log in
+Register
+
+Certifications
+Learning
+Resources
+Membership
+Get Involved
+Events
+PMI for Organizations
+About PMI
+
+Vendors may cost you
+more than your project
+how to avoid vendor risks
+Share to
+Conference Paper  ǀ Risk Management , Cost Management  ǀ 19
+October 2008
+McIsaac, Karen A.
+Offer from our training
+partner
+Advertisement
+Offer from our training
+partner
+Home
+/
+Learning
+/
+Library
+/
+Vendors may cost you more than your project
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+1/23
+
+How to cite this article:
+McIsaac, K. A. (2008). Vendors may cost you more than your project: how to avoid
+vendor risks. Paper presented at PMI® Global Congress 2008—North America,
+Denver, CO. Newtown Square, PA: Project Management Institute.
+A significant but often under-recognized risk in managing projects
+involves managing vendors. Very often, if the vendors do not deliver as
+expected, the project can stall, or worse, get cancelled. This paper
+examines how project managers can effectively manage vendors and
+prevent the risks--and associated costs--of poor vendor performance. In
+doing so, it lists the reasons why organizations often need to enlist the
+help of external vendors; it identifies the five vendor-related risks that
+project managers must mitigate and the five mitigation techniques that
+can help project managers prevent these risks. It then outlines a process
+for procuring vendors, explaining the elements and concerns shaping
+vendor contracts, statement of work (SOW), vendor management, and
+vendor performance measurement. It defines six types of vendor-related
+risks, noting several questions that can help project managers mitigate
+these risks. It also details four reasons why organizations terminate vendor
+contracts.
+Introduction
+Let’s face it: we are all dependent on vendors, whether in our workplace
+or our personal lives, for the simple reason that none us cannot “do it all
+on our own.” What we can do, however, is ensure that we are managing
+those vendors in order to have our needs and expectations fulfilled.
+Advertisement
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+2/23
+
+If you look anywhere in the news today you will find a whole host of
+stories about financial problems that are caused at least in part, if not
+entirely, by poor vendor management and oversight.
+One local headline reads “$6 Million Later, County Scraps Computer
+System.” The story goes on to discuss how over US $6 million had been
+spent on a program meant to support the judicial and criminal justice
+systems---and how ultimately nothing was delivered (Levine, 2006). The
+program was finally cancelled.
+A global manufacturer of home healthcare products made headlines
+when it announced to shareholders and the public that dividends would
+be reduced by US $.25 to $.30 per share, and projected a revenue
+shortfall of $30 million due to “problems with the implementation of a new
+enterprise resource planning system” (Baron, 2005).
+As evidenced by these news reports, vendor performance and its
+management impact more than just project success. Other areas that are
+impacted include shareholders, taxpayers, customers, careers,
+organizations’ reputations, and, ultimately, the vendors themselves. These
+vendors may in fact have had very good intentions, but their performance
+may have missed the mark due to an absence of that vendor
+management component that solidifies a partnership.
+Who is to Blame?
+In today’s world, when something goes wrong, everyone likes to put the
+blame on someone or something. People often blame all program and
+project management problems on one specific area---whether it be
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+3/23
+
+technology, vendor procurement, an organization’s ability or inability to
+change, management, or leadership (and the list goes on).
+I believe that the root cause of these problems is the poor execution of
+program and project management practices. of which vendor
+management is a component.
+Vendors are not, and should not, be brought into a supporting role to be
+“scapegoats,” but should be considered partners that help the
+organization to fill a void in expertise, staffing, and skills.
+Why Engage a Vendor?
+Typical considerations for seeking external vendor support include the
+following:
+The organization has never done “X” before and want to be assured of
+success by someone who has.
+The organization may have credibility challenges and it is more palatable
+for an external vendor to do the work
+The project timeline dictates speed to market, and the organization
+does not have the internal resources needed to shorten the timeline.
+The vendor has a broader perspective; they have experience with
+similar organizations and can effectively handle the complexities.
+The organization’s staff does not have the capacity
+The organization may have a culture that is more prone to outsourcing
+than in-sourcing.
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+4/23
+
+If you look at Chapter 12 of A Guide to the Project Management Body of
+Knowledge (PMBOK® Guide)---Third edition on Project Procurement
+Management, there is a chart depicting the various steps from planning
+purchases and acquisitions through contract closure (Project
+Management Institute [PMI], 2004). This is not a complex chart; the
+messaging is clear---plan for vendor procurement and management.
+What Are We Purchasing?
+In my experience, people make purchases without a real understanding of
+what they want to buy. Marketing is driven by this concept and reality.
+For example, if you are buying a car and do not include an 8-CD Disc
+Changer as a requirement, you may end up driving down the road with
+only the radio.
+Scope and requirements are essential inputs to vendor evaluations. These
+evaluations consist of what vendor, what services, and at what price.
+Requirements should be ranked in terms of importance in the event that
+choices and trade-offs need to be made. One thing to consider with any
+vendor evaluation is whether the product or service already exists (and
+can be demonstrated), or whether they are simply “promising” that it will
+exist.
+How Not to Do It
+An organization that decided to replace their aging HR/payroll system had
+a tight timeline in which to do it (because of some compliance issues), so
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+5/23
+
+they skipped providing the definition of requirements. They chose a best
+of breed product and signed a contract.
+During a project kick-off meeting, it was discovered that the vendor’s
+product technical platform did not align with the organization’s IT
+architecture. A further review disclosed unanticipated costs for hosting.
+The contract was cancelled, with significant financial penalties to the
+organization. Now the team was challenged even more with an even
+tighter timeline.
+Mitigating Risks
+Although every vendor evaluation and selection has inherent risks, some
+to consider for mitigation are:
+You must define what you need in order to get what you want!
+Vendor Pricing Scenarios: What
+is Best for the Buyer?
+Technical, quality, and performance risks---any one of these can be a
+serious show-stopper.
+Schedule performance risks---these can range from annoyance to
+catastrophe.
+Cost risk---this can be mitigated based on how you choose to accept
+or transfer the risk via the pricing (fixed vs. cost plus).
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+6/23
+
+Let’s first define “best for the buyer;” this is where we have to understand
+the buyer’s goals in engaging an external vendor:
+Without understanding some of these goals, you cannot effectively begin
+to consider fixed vs. cost plus pricing. Now, let’s look at a typical matrix
+(Exhibit 1) that depicts what might be best for the buyer once we have
+understood the buyer’s goals.
+Exhibit 1---Fixed vs. Cost Plus
+Cost risk mitigation
+Schedule risk mitigation
+Deliverable risk mitigation
+Quality risk mitigation
+Don’t want to manage the vendor resource(s)
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+7/23
+
+Many project managers do not understand the drivers when seeking
+external vendor support and therefore cannot take this chart and ask the
+most important questions to help them understand the pricing options.
+When these drivers are understood, however, the vendor selection and
+negotiation can be further streamlined.
+How to Procure a Vendor
+Specific steps with inputs and outputs that support the procurement
+process are taken. Many organizations have formalized the approach and
+leveraged vendor relationships by establishing a supply chain or
+procurement group.
+Next, let’s look at the inputs, outputs, and steps that are a part of the
+procurement process (Exhibit 2). One of the main reasons we are having
+this “look-see” is to remind ourselves that this process is a part of every
+project work plan. If it is overlooked, you and your project will be impacted.
+Exhibit 2--What to Procure
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+8/23
+
+Now we know what we want to buy; the requirements are solid, and using
+Exhibit 2, we ought to be able to negotiate that contract, right? Not quite!
+Everyone should understand where there may be vendor “gaps” in
+meeting the stated requirements and the responsibility (in terms of time
+and cost, and who accepts responsibility) of closing those gaps.
+Typical Case Study Reflecting a Real
+Scenario
+Two organizations agreed on a contract for demonstration of proof of
+concept only. The vendor was to provide a viable proof of concept to the
+client, using the client-generated requirements.
+What was unclear from the start were the gaps. The vendor had a
+product that had significant gaps that needed to be closed to generate
+the agreed upon proof of concept. The buyer was unaware that the
+vendor was intending to build something to bridge those gaps, and the
+contract was not clear.
+The vendor was unable to demonstrate a viable proof of concept and
+intended to invoice the client for the work to bridge the gaps.
+Renegotiation was quickly needed. Lessons learned from this scenario are
+that one needs to understand the agreement with the vendor and to state
+clearly the understanding in the legal contract. This understanding will
+benefit both the vendor and buyer.
+The Contract
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+9/23
+
+Let’s be clear about what elements should be considered in a contractual
+agreement with a vendor (most of these should be considered required
+vs. optional):
+Statement of Work (SOW)---this protects both buyer and vendor
+Technical specifications---these prevent late mis-fits
+Terms and conditions such as:
+Warranties
+Locations of where the work is to be performed
+SOW change process
+Nonperformance
+Term or duration
+Pricing
+Payments
+Specific skills/experience/talents
+Data reporting---to build clarity around the vendor’s reporting
+requirements such as cost reporting, quality metrics, and
+subcontracting utilization
+Progress/status reporting---to identify:
+Process
+Content
+Frequency
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+10/23
+
+Medium
+Escalation procedures
+Attendees (required) if meeting
+Management requirements---with baseline expectations regarding the
+following:
+What tools are to be utilized
+What methodology is to be used
+What expectations one has about training
+What the process is and the expectations are about knowledge
+transfer
+Confidentiality---this should be ensured to protect your organization,
+your data, your ideas, and your information, and to help provide clarity
+around the use of the data, the destruction of confidential materials, and
+where the confidential materials reside (and remain)
+Pricing---to ensure that there are no hidden fees and/or expenses
+Invoicing---to clarify the payment structure (when and how you pay),
+the invoicing periods and terms, and applicable taxes
+Insurance---your organization may have requirements for specific
+insurance coverage that a vendor must have, such as Errors and
+Omissions, Commercial Business, Workers Compensation, and so on.
+Rights---to ensure that there is a clear understanding of who owns the
+products when they are complete, including the rights of use by whom,
+when, and for how long
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+11/23
+
+The Infamous Statement of
+Work
+Why should you have a statement of work (SOW)? The SOW is a key
+component, as it details and clarifies the work to be performed as well as
+under what conditions it should be performed. The SOW generally
+contains verbiage pertaining to:
+Miscellaneous legal---this is where the mediation, arbitration,
+governing law, liability limitations, and auditability of the vendor should
+be included
+Buyer’s objectives
+Deliverables---clear statements about what these are
+Performance objectives---defining these standards will drive the
+checkpoints that will begin to measure the probability of success (it is
+recommended that these be jointly developed between buyer and
+vendor)
+Personnel commitments---identification of specific levels of people,
+talents and skills, can also include the names of individuals
+Terms and conditions---these can include “pay for performance,” the
+alignment of payment with the performance objectives in the SOW
+Communication---the stated expectations regarding how the vendor
+and buyer will communicate specifically regarding the SOW
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+12/23
+
+We’re Ready to Go With Our
+Vendor: Now What?
+Unfortunately, we focus too much on when and where we engage the
+vendor and then forget that we have to manage the vendor. Managing
+vendors is not considered an indication of distrust; rather it is a process
+for solidifying the vendor relationships and partnerships. As a project
+manager, this is your responsibility, and not that of the procurement folks,
+the legal team, or your manager.
+Some key action items to support managing and partnering with your
+vendors include:
+The Vendor Was Not Managed:
+A Case Study
+Setting up and conducting progress reviews---you set the agenda
+and engage the participants who need to attend
+Verifying invoices---anyone can make a mistake, so ensure that you
+are getting what you are paying for
+Resolving issues---how long you permit vendor issues to remain in an
+“open status” can impact your success, so know when, how, and whom
+to escalate to
+Using earned value management---to track progress against the
+spending
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+13/23
+
+Everyone agrees that vendors can incur additional costs if they not
+managed properly. What most people do not realize is the extent of these
+costs.
+A local government agency engaged a vendor to run and implement an
+ERP. The vendor was not managed, there was no documentation
+regarding expected performance, and there were no checkpoints with the
+vendor. The local government realized that they had paid the estimated
+costs to the vendor and had nothing to show for it.
+The vendor was fired. The vendor took the local government agency to
+court and won the lawsuit. Because this was a local government contract,
+the fact that the taxpayers had to shell out $3 million dollars to an
+incompetent and unmanaged vendor was shared on the front page of the
+newspaper. The local government agency could not demonstrate any
+documentation that represented any oversight of the vendor.
+Vendor Performance
+Measurements
+You are measured for your performance, so why not measure your
+vendor’s? In order to measure your vendor’s progress throughout the
+project, you will need to take the following steps:
+Require the vendor’s schedule ---this is needed also to integrate into
+your work plan
+Conduct status meetings---this will help minimize your own surprise
+by probing on status and “inspecting what you expect”
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+14/23
+
+Changes Are a Fact of Life
+You can bet that changes are bound to occur and that they will impact
+the original SOW. The process for addressing these types of changes
+should be articulated in the contractual agreement---namely, concerning
+how changes will be handled. This presupposes that the process has
+been discussed with the vendor and agreed upon by both parties.
+If these change controls were not established as part of the contract, the
+risk of schedule and budget impacts increases. Depending on the type of
+pricing of the vendor contract (fixed vs. cost plus), the vendor may even
+welcome changes to the SOW!
+Depending on the magnitude of the change, the type of contract, and the
+change to the SOW, you and the vendor may need to reengage legal
+review and oversight..
+Vendors Are Risky Business
+Let’s consider the many types of risks that a vendor brings to our projects
+and some potential mitigation strategies.
+Address performance issues immediately---don’t provide a third or
+fourth chance for vendor performance recovery
+Document, document, document---ensure that all documentation is
+fact-based and shared with the vendor; engage other partners (e.g.,
+legal, procurement) where appropriate in addressing vendor issues
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+15/23
+
+Performance risk. (This is generally at the top of the list.)
+Does the vendor have a track record with similar SOWs?
+What are the vendor’s prior customer experiences (e.g., same work
+done for others that may or may not be similar to us)?
+What are other sources of reference (Gartner/Forrester, other
+customers, publications)?
+Culture risk. Often this is missed; the vendor may have done the same
+work before, but in a very different culture climate. Every organization’s
+culture is unique; the challenge is to determine just “how unique.”
+Does the vendor have the ability to adapt and blend in?
+Competency Risk. This is similar to performance risk. Questions about
+competency should be addressed with vendor and vendor clients.
+Some of these risks can be addressed in the legal contract with the
+vendor.
+Does the vendor have the right folks on the vendor’s “bus”? (If you
+want particular people on the project, it needs to be clear to the
+vendor.)
+Will the right skills be available at the right time?
+Capacity risk. This is often overlooked in the excitement of finding the
+right vendor to partner with on your project.
+Is the vendor viable in terms of resources and the timing of their
+availability to support your schedule?
+Is the vendor large enough to be a long-term supplier (support and
+implementation consideration)?
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+16/23
+
+Because today’s program/project initiatives are so complex and
+dispersed, the reality is you and your organization may have multiple
+vendors having to work together effectively and cohesively. This requires
+that some other considerations be taken in account:
+Termination of Vendor Contracts
+Reputation risk. This is a consideration when you are searching for a
+vendor that may be specialized (non-Big 5) and this vendor will have
+visibility within your organization.
+Does the vendor have a credible reputation that can impact your
+organization and project team?
+Alignment. (This may or may not come to mind when you are in the
+process of choosing a vendor.)
+Does the vendor share the same core values, have a similar
+methodology and standards? (An early disconnect may be an
+indicator of the relationship’s success or failure.)
+What is the risk of multiple vendors independently succeeding or
+collectively failing?
+Can you identify, very early, a method for resolving interrelated vendor
+issues and achieve agreement on this method with all vendors?
+Should you consider an external, unbiased oversight that fosters the
+multiple vendor engagement partners?
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+17/23
+
+Typically, termination of a vendor contract is due to one of the following
+four reasons:
+Rating the Vendor Performance
+The End of the Engagement
+Great experiences are worth repeating, but not disasters! At the end of
+the engagement, you should determine if you would invite this vendor to
+support you again. First, “document, document, document”: both the
+vendor and procurement need to know how you would rate the vendor’s
+performance. Remember, feedback is helpful, so make it constructive
+where needed.
+Failure to perform against the SOW---this is a vendor failure and
+points out the importance of (1) the clarity of the SOW (this assists not
+just you but the vendor in assessing performance) and (2) the need to
+manage the vendor to ensure that they are performing against the
+SOW.
+Breach of contract---the contractual agreement is not executed by the
+vendor or you (the buyer).
+Anticipatory breach of contract---the vendor does not intend to
+complete the work; significant associated costs have been incurred by
+the vendor.
+Termination by you (the buyer)---this is generally executed within the
+Terms and Conditions clause of the contract and can be executed with
+a legitimate basis for termination (e.g., a project cancellation).
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+18/23
+
+Also include and recognize your vendor for meeting/exceeding
+expectations; inclusion makes the team “whole.”
+What does the entire process provide? Mutual success!
+Baron, M. (December 14, 2005). Invacare warns earnings hurt by problems
+w/ new ERP system. Marketwatch. Retrieved June 10, 2008, from
+http://www.marketwatch.com/news/story/invacare-warns-earnings-hurt-
+problem/story.aspx?guid=%7BD2CE138B-838F-4473-A0A7-
+2E1C002A1B36%7D&dateit=38700.4925-854330410
+Levine, C. (2006,February 10). $6 Million Later, County Scraps Computer
+System. The Charlotte Observer, p. A1.
+Project Management Institute. (2004). A guide to the project management
+body of knowledge (PMBOK® Guide) Third edition. Newtown Square, PA:
+Project Management Institute.
+This material has been reproduced with the permission of the copyright
+owner. Unauthorized reproduction of this material is strictly prohibited. For
+permission to reproduce this material, please contact PMI or any listed
+author.
+© 2008, Karen A. McIsaac
+Originally published as a part of 2008 PMI Global Congress Proceedings –
+Denver, Colorado, USA
+Like what you just read?
+Log in or register for a free PMI account to get
+access  to even more articles like this one.
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+19/23
+
+Login
+or
+Register
+Related Content
+Narratives of Project
+Risk Management
+By Green, Stuart D. | Dikmen,
+Irem
+The dominant narrative of
+project risk management…
+Read Now
+Article
+Member Exclusive
+Identifying Subjective
+Perspectives on
+Managing
+Underground Risks at
+Schiphol Airport
+By Biersteker, Erwin | van…
+Read Now
+Article
+Member Exclusive
+Article
+Member Exclusive
+Case Study
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+20/23
+
+Collective Mindfulness
+By Wang, Linzhuo | Müller, Ralf |
+Zhu, Fangwei | Yang, Xiaotian
+We investigated the
+mechanisms of collective
+mindfulness for megaprojec…
+Read Now
+Saudi Aramco
+This in-depth case study
+outlines a project to increase
+productivity with Saudi
+Arabian public petroleum
+and natural gas company,…
+Read Now
+The Certainty of
+Uncertainty
+By Fewell, Jesse,
+As much as we yearn for a
+pre-pandemic return, it's
+naive to think the old ways …
+Read Now
+Article
+A certeza da incerteza
+By Fewell, Jesse
+Por mais que ansiamos por
+um retorno pré-pandêmico,
+é ingênuo pensar que as
+velhas formas de trabalho…
+Read Now
+Article
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+21/23
+
+Quick Links
+Report PDUs﻿
+Online Courses
+PMBOK® Guide
+Webinars﻿
+Events
+Store
+Certifications
+Project
+Management
+Professional
+(PMP)®
+Certified Associate
+in Project
+Management
+(CAPM)®
+PMI Agile Certified
+Practitioner (PMI-
+ACP)®
+Compare
+Certifications
+Membership
+Become a Member
+Local Chapters
+Membership FAQs
+Community
+Latest from the
+Community﻿
+Discussions﻿
+Templates﻿
+Blogs﻿
+Volunteering
+Partner with
+PMI
+Enterprise and
+Commercial
+Partners
+Training Partners
+Organization
+Our Mission &
+Vision
+Our Purpose
+Our Leadership
+The PMI Blog
+What is Project
+Management?
+What is a Project
+Manager?
+Press & Media
+Careers
+Support
+Contact Us
+Store Help
+Stay Connected
+Offer from our training partner
+Advertisement
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+22/23
+
+Accessibility
+Privacy
+Sitemap
+Terms of use
+Purchasing Terms
+Advertising & Sponsorship
+© 2025 Project Management Institute
+Feedback
+26/10/2025, 13:04
+Vendors may cost you more than your project
+https://www.pmi.org/learning/library/vendors-cost-more-project-prevent-risks-6949?_gl=1*187jopc*_gcl_au*MTEwNDAxNjkwOC4xNzYwNTAzMzg0LjExMjgxNTU3NDguMTc2MTQ0MzU2OS4xNzYxNDQzNTY5
+23/23
