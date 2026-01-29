@@ -2,7 +2,7 @@
 
 import torch
 import torch.nn as nn
-from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPT2Config
+from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPT2Config, AutoTokenizer
 from typing import Optional, Dict, List, Tuple
 import logging
 
@@ -157,7 +157,7 @@ class PMLanguageModel(nn.Module):
         )
 
         instance.model = GPT2LMHeadModel.from_pretrained(path)
-        instance.tokenizer = GPT2Tokenizer.from_pretrained(path)
+        instance.tokenizer = AutoTokenizer.from_pretrained(path)
         instance.model_name = "custom"
 
         if instance.tokenizer.pad_token is None:

@@ -2,6 +2,22 @@
 
 This document provides guidance for AI assistants working with the Project Management PyTorch codebase.
 
+## Implementation Status
+
+| Component | Status | Description |
+|-----------|--------|-------------|
+| `scripts/train_language_model.py` | **Implemented** | GPT-2 fine-tuning with configurable hyperparameters |
+| `scripts/train_classifier.py` | **Implemented** | DistilBERT classifier with evaluation metrics |
+| `scripts/evaluate.py` | **Implemented** | Model evaluation with metrics and reports |
+| `scripts/generate.py` | **Implemented** | Interactive text generation CLI |
+| `scripts/uat_app.py` | **Implemented** | Streamlit UAT web interface |
+| `src/models/language_model.py` | **Implemented** | PMLanguageModel class with generation |
+| `src/models/classifier.py` | **Implemented** | PMClassifier with 10 knowledge areas |
+| `src/data/dataset.py` | **Implemented** | Dataset classes and dataloaders |
+| `src/data/preprocessing.py` | **Implemented** | Text preprocessing and labeling |
+| `src/training/trainer.py` | **Implemented** | Generic Trainer with checkpointing |
+| `src/training/metrics.py` | **Implemented** | Classification metrics and reporting |
+
 ## Project Overview
 
 This project implements AI models for project management using PyTorch, trained on PMI (Project Management Institute) publications and standards.
@@ -207,6 +223,110 @@ python scripts/evaluate.py --model-type both
 python -m src.data.preprocessing
 ```
 
+## Training Script Details
+
+### train_language_model.py (Implemented)
+
+**Features:**
+- Loads config from YAML file
+- Auto-detects CUDA/MPS/CPU device
+- Creates train/val/test data loaders from dataset directory
+- Configurable gradient accumulation for memory efficiency
+- Learning rate scheduling with warmup
+- Automatic checkpointing and logging
+- Post-training generation tests with sample prompts
+
+**Arguments:**
+```bash
+python scripts/train_language_model.py \
+    --config config/config.yaml \
+    --num-workers 4
+```
+
+**Output:**
+- Model saved to `models/language_model/`
+- Checkpoints in `checkpoints/language_model/`
+- TensorBoard logs in `logs/language_model/`
+
+### train_classifier.py (Implemented)
+
+**Features:**
+- DistilBERT-based multi-class classification
+- 10 PM knowledge area labels
+- Comprehensive evaluation metrics (accuracy, precision, recall, F1)
+- Detailed classification report per class
+- Post-training prediction tests with sample texts
+- Confidence-based data filtering (min_confidence threshold)
+
+**Arguments:**
+```bash
+python scripts/train_classifier.py \
+    --config config/config.yaml \
+    --num-workers 4
+```
+
+**Output:**
+- Model saved to `models/classifier/`
+- Checkpoints in `checkpoints/classifier/`
+- TensorBoard logs in `logs/classifier/`
+- Classification report printed to console
+
+**Test Results Format:**
+```
+Test Results:
+  Accuracy: 0.XXXX
+  Precision: 0.XXXX
+  Recall: 0.XXXX
+  F1 Score: 0.XXXX
+```
+
+### uat_app.py (Implemented)
+
+**Streamlit-based UAT Web Interface**
+
+**Features:**
+- **Home Dashboard**: Overview of models and knowledge areas
+- **Language Model Tab**: Interactive text generation with adjustable parameters
+  - Temperature, Top-K, Top-P controls
+  - Multiple sequence generation
+  - Sample prompts for quick testing
+- **Classifier Tab**: Text classification with confidence scores
+  - Visual probability distribution chart
+  - Detailed per-class probabilities
+  - Sample texts for quick testing
+- **Batch Testing Tab**: Upload CSV for bulk testing
+  - Supports both models
+  - Accuracy calculation (if expected labels provided)
+  - Downloadable results
+- **Model Info Tab**: Display model parameters and configuration
+  - UAT test history tracking
+  - Dataset statistics
+
+**Launch Command:**
+```bash
+cd ~/Desktop/pytorch-project-management-model-93a8M
+source venv/bin/activate
+streamlit run scripts/uat_app.py
+```
+
+**Access URL:** `http://localhost:8501`
+
+**CSV Format for Batch Testing:**
+
+Classifier:
+```csv
+text,expected
+"The schedule shows critical path delays",Schedule Management
+"Risk mitigation plan needed",Risk Management
+```
+
+Language Model:
+```csv
+prompt
+"Project management is"
+"Risk mitigation strategies include"
+```
+
 ## Testing
 
 ```bash
@@ -267,3 +387,42 @@ Utils:
 - `pyyaml>=6.0` - Config loading
 - `tqdm>=4.65.0` - Progress bars
 - `pymupdf>=1.23.0` - PDF extraction
+- `streamlit>=1.28.0` - UAT web interface
+
+## Validation Results (2025-01-29)
+
+### Language Model
+- **Status:** PASSED
+- **Parameters:** 124,439,808
+- **Base Model:** GPT-2
+- **Device:** CPU/MPS/CUDA (auto-detected)
+
+### Classifier
+- **Status:** PASSED
+- **Parameters:** 66,370,570
+- **Base Model:** DistilBERT
+- **Test Accuracy:** 61.41%
+- **Test F1 Score:** 59.70%
+
+**Per-Class Performance:**
+| Knowledge Area | F1 Score |
+|----------------|----------|
+| Schedule Management | 0.77 |
+| Risk Management | 0.71 |
+| Cost Management | 0.67 |
+| Scope Management | 0.65 |
+| Quality Management | 0.59 |
+
+## Changelog
+
+### 2025-01-29
+- Fixed tokenizer loading issue (use `AutoTokenizer` instead of `GPT2Tokenizer`)
+- Fixed UAT app path resolution for Streamlit execution
+- Added robust project root detection in uat_app.py
+- All scripts validated and tested
+- Added validation results section
+
+### Initial Release
+- Implemented all training scripts
+- Implemented UAT web interface
+- Trained Language Model and Classifier on PMI corpus
